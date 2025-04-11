@@ -1,5 +1,7 @@
+---
 layout: home
 site-title: Austin J. Bay
+---- 
 
 # Hey, I’m Austin.
 
