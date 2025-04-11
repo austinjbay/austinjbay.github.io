@@ -3,4 +3,5 @@ yaml
 #theme: minima
 #title: Austin Bay
 #site-title: Austin Bay
+name: Austin Bay
 remote_theme: atarijoo/menca-jekyll
