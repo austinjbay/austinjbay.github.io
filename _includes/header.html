@@ -25,6 +25,8 @@
                 <a href="{{ site.baseurl }}/" class="nav__link">Home</a>
               </li>
               <li class="nav__item nav__item-icon">
+               
+              {% if site.color_scheme == "auto" %}
                 <div class="toggle-theme">
                   <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon"></i></div>
                   <div class="toggle-sun" title="Enable light mode"><i class="ion ion-ios-sunny"></i></div>
