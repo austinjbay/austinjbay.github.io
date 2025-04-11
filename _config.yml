@@ -8,4 +8,5 @@ author:
 
 hero:
   hero__title: 👋🏻 Hi, I'm Austin.
-  hero_description: Building things at the intersection of product and search.
+  hero__description: Building things at the intersection of product and search.
+  hero__image: /assets/images/avatar.jpg
