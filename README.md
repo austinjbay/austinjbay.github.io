@@ -1,2 +1,1 @@
-# Austin Bay
-Welcome to my site — more coming soon!
+This repo contains the source code for my personal website: [austinjbay.com](https://austinjbay.com)
