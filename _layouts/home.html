@@ -25,29 +25,11 @@
       </div>
     </div>
   </div>
-  <article class="article col col-4 col-d-12">
-  <div class="article__inner">
-    {% if post.image %}
-    <div class="article__image">
-      <a href="{{ post.url | relative_url }}">
-        <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
-      </a>
-    </div>
-    {% endif %}
-    <div class="article__content">
-      <h2 class="article__title">
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h2>
-      <div class="article__meta">
-        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-      </div>
-      <p class="article__excerpt">
-        {{ post.excerpt | strip_html | truncate: 160 }}
-      </p>
-      <a class="article__more" href="{{ post.url | relative_url }}">Read more →</a>
-    </div>
-  </div>
-</article>
+  <div class="container">
+     <div class="row">
+       {% for post in site.posts limit:3 %}
+         {% include article.html %}
+       {% endfor %}
 </div>
 <!-- end recent posts -->
 </div>
