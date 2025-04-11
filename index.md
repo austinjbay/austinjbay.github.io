@@ -1,3 +1,6 @@
-# Hey, I’m Austin.
+**---
+layout: home
+title: Austin J. Bay
+---
 
-Welcome to my site —— more coming soon! 
+# Hey, I’m Austin.
