@@ -29,6 +29,7 @@
      <div class="row">
        {% for post in site.posts limit:3 %}
          {% include article.html %}
+       {{ post.excerpt | strip_html | truncate: 160 }}
        {% endfor %}
 </div>
 <!-- end recent posts -->
