@@ -1,0 +1,16 @@
+<section class="blog-feed section">
+  <div class="container">
+    <h2 class="section-title">Latest Posts</h2>
+    <div class="posts">
+      {% for post in site.posts limit:3 %}
+        <article class="post-item">
+          <h3 class="post-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h3>
+          <time class="post-date">{{ post.date | date: "%B %-d, %Y" }}</time>
+          <p class="post-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+        </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
