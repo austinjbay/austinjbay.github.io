@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Austin J. Bay
+title: Austin Bay
 name: Austin Bay
 ---
