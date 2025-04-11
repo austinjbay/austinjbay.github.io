@@ -1,4 +1,2 @@
 # Austin Bay
-# Heading 1
-## Heading 2
-### Heading 3
+Welcome to my site — more coming soon!
