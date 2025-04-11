@@ -5,3 +5,7 @@ author:
   author__name: Austin Bay
   author__bio: Works at the intersection of product and search. Interested in how people find and stick with the things they love.
   author__avatar: /assets/images/avatar.jpg
+
+hero:
+  hero__title: Austin Bay
+  hero_description: Building things at the intersection of product and search.
