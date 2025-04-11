@@ -24,13 +24,6 @@
               <li class="nav__item">
                 <a href="{{ site.baseurl }}/" class="nav__link">Home</a>
               </li>
-              {% for page in site.pages %}
-                {% unless page.name == 'tags.html' or page.name == '404.html' or page.name == 'home.html' %}
-                  {% if page.title %}
-                  {% endif %}
-                {% endunless %}
-              {% endfor %}
-              {% if site.color_scheme == "auto" %}
               <li class="nav__item nav__item-icon">
                 <div class="toggle-theme">
                   <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon"></i></div>
