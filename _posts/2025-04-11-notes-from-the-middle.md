@@ -2,6 +2,7 @@
 title: "Notes From the Middle: What I’m Sharing and Why"
 description: "Notes From the Middle: What I’m Sharing and Why"
 date: 2025-04-11
+image: '/desk.jpg'
 layout: post
 ---
 
