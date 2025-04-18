@@ -1,6 +1,6 @@
 ---
 title: "Notes From the Middle: What I’m Sharing and Why"
-description: "Notes From the Middle: What I’m Sharing and Why"
+description: "I’ve spent the last decade helping to build and grow products by shipping a metric ton of experiments"
 date: 2025-04-11
 layout: post
 ---
