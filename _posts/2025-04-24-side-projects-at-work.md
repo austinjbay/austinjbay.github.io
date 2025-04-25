@@ -6,4 +6,6 @@ layout: post
 image: '/assets/images/pomodoro timer.jpg'
 ---
 
-A few of us built a <a href="https://quizlet.com/features/pomodoro-timer">Pomodoro Timer</a> for students on a hunch that we might be able to help students keep track of their time on the platform. We ended up wrapping the project up early because we had to move on to other initiatives and I have a long backlog of improvements I still want to make to this thing. It might have done garnered the love and admiration from our users, but I think it's a side project we all still think back on fondly for how much we grew and learned as a team throughout the process.
+A few of us built a <a href="https://quizlet.com/features/pomodoro-timer">Pomodoro Timer</a> for students on a hunch that we might be able to help students stay motivated throughout their study session. We ended up only getting out the v0 version because we had to move on to other initiatives — and we still have a long backlog of improvements we'd like to make to this thing. 
+
+It might not have garnered the love and admiration from our users that we wanted right out of the gate, but I think it's a side project we all still think back on fondly for how much we grew and learned as a team throughout the process.
