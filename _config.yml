@@ -11,7 +11,6 @@ hero:
   hero__description: I'm a mid-career growth PM living in San Francisco. This is my digital garden. A collection of field notes & artifacts from my desk to yours.
 
 social:
-  linkedin: austin-bay-2763a918
-  twitter: austinjbay
-  github: austinjbay
-  
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/austin-bay-2763a918/"}
+- {icon: "ion-logo-twitter", link: "https://x.com/austinjbay"}
+- {icon: "ion-logo-github", link: "https://github.com/austinjbay"}
