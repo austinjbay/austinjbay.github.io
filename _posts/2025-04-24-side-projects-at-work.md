@@ -22,7 +22,7 @@ A fall 2024 survey of over 1,000 college students found that 52% have trouble co
 
 <a href="https://kahoot.com/kahoot-study-survey/"><img src="/assets/images/study-challenges.jpg"></a>
 
-And with +19M college students in the United States, we thought <em>how might we help them improve time management and stay focused</em>?
+And with +19M college students in the United States, we thought <em>how might we help with time management and focus</em>?
 
 <blockquote>
   
