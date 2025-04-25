@@ -6,6 +6,8 @@ layout: post
 image: '/assets/images/pomodoro timer.jpg'
 ---
 
-A few of us built a <a href="https://quizlet.com/features/pomodoro-timer">Pomodoro Timer</a> for students on a hunch that we might be able to help students stay motivated throughout their study session. We ended up only getting out the v0 version because we had to move on to other initiatives — and we still have a long backlog of improvements we'd like to make to this thing. 
+At a company like Quizlet, where most of our time is spent focused on core initiatives, it can be easy to let experimental ideas fall  by the wayside or never even make it into a discussion about team priorities. But sometimes, small sparks outside of the roadmap can help us find a way forward — or at the very least, give us something valuable that we didn't know we needed. 
 
-It might not have garnered the love and admiration from our users that we wanted right out of the gate, but I think it's a side project we all still think back on fondly for how much we grew and learned as a team throughout the process.
+This past fall, a <a href="https://quizlet.com/features/pomodoro-timer">Pomodoro Timer</a> became a side project we all kind of fell in love with and reminded us that that sometimes there's a lot of value in exploring the side projects. If not for business impact, then just for our own happiness as a team. 
+
+
