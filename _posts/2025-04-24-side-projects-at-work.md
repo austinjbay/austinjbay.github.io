@@ -16,7 +16,7 @@ This past fall, a <a href="https://quizlet.com/features/pomodoro-timer">Pomodoro
 If not for business impact, then just for our own happiness as a team. 
 
 <h2>The problem space</h2>
-We can't pretend to know more about students lives than what they tell us, but we often hear from students that there are so many distractions they face on a daily basis. From phones that seem to have an endless stream of notifications to pressure from peers to accomplish more, there are so many opportunities on a daily basis for things to disrupt their focus.
+I'm not a mind readers—and I'm definitely not trying to be—but students have made one thing very clear: staying focused is hard. Between phones that never stop buzzing, group chats that somehow always light up during study time, and the ever-present pressure to be doing <em>all the things</em>, it’s like the universe is running a full-time distraction service made just for them.
 
 <blockquote>
   
