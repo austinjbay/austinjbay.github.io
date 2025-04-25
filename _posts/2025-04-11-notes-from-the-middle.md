@@ -1,5 +1,5 @@
 ---
-title: "Notes From the Middle"
+title: "Notes from the middle"
 subtitle: "A little about me and this space"
 description: "This is a place for me to hold space for half-formed thoughts and share notes."
 date: 2025-04-11
