@@ -1,5 +1,5 @@
 ---
-title: "Notes From the Middle: What I’m Sharing and Why"
+title: "Notes From the Middle"
 description: "A little about me and this space"
 date: 2025-04-11
 image: '/assets/images/notebook.jpg'
