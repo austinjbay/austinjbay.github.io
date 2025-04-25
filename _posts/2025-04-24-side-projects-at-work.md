@@ -1,6 +1,6 @@
 ---
 title: "In Defense of Side Projects"
-subtitle: I'm testing to see if this actually works 
+subtitle: Exploring a hunch over updating a roadmap
 description: "Time carved out for pet projects is hard-won at work these days, but there's so much value in spending time outside official company projects."
 date: 2025-04-24
 layout: post
