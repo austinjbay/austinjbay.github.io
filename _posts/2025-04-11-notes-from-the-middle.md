@@ -1,6 +1,7 @@
 ---
 title: "Notes From the Middle"
-description: "A little about me and this space"
+subtitle: "A little about me and this space"
+description: "This is a place for me to hold space for half-formed thoughts and share notes."
 date: 2025-04-11
 image: '/assets/images/notebook.jpg'
 layout: post
