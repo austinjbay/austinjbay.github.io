@@ -8,6 +8,6 @@ image: '/assets/images/pomodoro timer.jpg'
 
 At a company like Quizlet, where most of our time is spent focused on core initiatives, it can be easy to let experimental ideas fall  by the wayside or never even make it into a discussion about team priorities. But sometimes, small sparks outside of the roadmap can help us find a way forward — or at the very least, give us something valuable that we didn't know we needed. 
 
-This past fall, a <a href="https://quizlet.com/features/pomodoro-timer">Pomodoro Timer</a> became a side project we all kind of fell in love with and reminded us that that sometimes there's a lot of value in exploring the side projects. If not for business impact, then just for our own happiness as a team. 
+This past fall, a <a href="https://quizlet.com/features/pomodoro-timer">Pomodoro Timer</a> became a side project we all kind of fell in love with and reminded us that that sometimes there's a lot of value in exploring ideas outside of the set roadmap. If not for business impact, then just for our own happiness as a team. 
 
 
