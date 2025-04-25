@@ -11,15 +11,13 @@ At a company like Quizlet, where most of our time is spent focused on core initi
 
 But sometimes, small sparks outside of the roadmap can help us find a way forward — or at the very least, give us something valuable that we didn't know we needed. 
 
-This past fall, a <a href="https://quizlet.com/features/pomodoro-timer">Pomodoro Timer</a> became a side project we all kind of fell in love with and reminded us that that sometimes there's a lot of value in exploring ideas outside of the set roadmap. 
+This past fall, a <a href="https://quizlet.com/features/pomodoro-timer">Pomodoro Timer</a> became a side project we all kind of fell in love with and it reminded us that that sometimes there's a lot of value in exploring ideas outside of the set roadmap. 
 
 If not for business impact, then just for our own happiness as a team. 
 
 <h2>The problem space</h2>
-
+We can't pretend to know more about students lives than what they tell us, but we often hear from students that there are so many distractions they face on a daily basis. From phones that seem to have an endless stream of notifications to pressure from peers to accomplish more, there are so many opportunities on a daily basis for things to disrupt their focus.
 
 <blockquote>
   
 </blockquote>
-
-
