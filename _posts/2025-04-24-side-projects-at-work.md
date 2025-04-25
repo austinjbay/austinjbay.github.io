@@ -21,7 +21,7 @@ I'm not a mind readers—and I'm definitely not trying to be—but students have
 A fall 2024 survey of over 1,000 college students found that 52% have trouble concentrating on tasks <em>several times</em> a week or more. In the same study, 51% of students reported feeing overwhelming stress or anxiety on a weekly basis, showing that over half of college students regularly struggle to focus.<a href="https://kahoot.com/press/2024/10/29/study-habits-snapshot-2024/#:~:text=match%20at%20L142%20challenges%2C%20with,a%20week%20or%20every%20day:"><sup>1</sup></a>
 
 <img src="/assets/images/study-challenges.jpg">
-<a style="text-align: right;" href="https://kahoot.com/kahoot-study-survey/">Study Habits Snapshot, 2024</a>
+<p style="text-align: right;"></p><a href="https://kahoot.com/kahoot-study-survey/">Study Habits Snapshot, 2024</a></p>
 
 And with +19M college students in the United States, we thought <em>how might we help them improve time management and stay focused</em>?
 
