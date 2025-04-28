@@ -22,6 +22,12 @@ A fall 2024 survey of over 1,000 college students found that 52% have trouble co
 
 There are a lot of areas where we do well today — memorization, practice problems, and interactive games that help students learn, but one area where we haven't invested in is productivity. With +19M college students in the United States, we thought <em>how might we help with time management and focus</em>, while giving students a reason to come back and study more often?
 
+<h2>Our solution</h2>
+
+<h2>_Every_ journey contains surprises</h2>
+
+<h2>Key takeaways</h2>
+
 <blockquote>
   
 </blockquote>
