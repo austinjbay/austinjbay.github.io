@@ -1,6 +1,6 @@
 ---
 title: "In defense of side projects"
-subtitle: The joy of exploring a hunch
+subtitle: Chasing a spark to build something real and imperfect
 description: "Time carved out for pet projects is hard-won at work these days, but there's so much value in spending time outside official company projects."
 date: 2025-04-24
 layout: post
