@@ -7,11 +7,13 @@ layout: post
 image: '/assets/images/pomodoro timer.jpg'
 ---
 
-With the demand on product managers from tops-down company initiatives, it's easy to let bottoms-up, experimental ideas fall by the wayside or never even make it into planning ceremonites. 
+With the demand on product managers from tops-down company initiatives, it's easy to let bottoms-up, experimental ideas fall by the wayside or never even make it into planning ceremonies. 
 
 But sometimes, small sparks from within the team can generate clever solutions to old problems — or at the very least, teach us someting new. 
 
-This fall, a <a href="https://quizlet.com/features/pomodoro-timer">Pomodoro Timer</a> became a side project we all kind of fell in love with and it reminded us that that sometimes there's a lot of value in exploring ideas outside of the set roadmap. 
+This fall, we took on a side project to understand if we could bring users back for more than just study material. 
+
+a <a href="https://quizlet.com/features/pomodoro-timer">Pomodoro Timer</a> became a side project we all kind of fell in love with and it reminded us that that sometimes there's a lot of value in exploring ideas outside of the set roadmap. 
 
 If not for business impact, then just for our own happiness as a team. 
 
