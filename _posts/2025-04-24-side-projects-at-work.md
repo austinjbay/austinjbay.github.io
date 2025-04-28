@@ -24,7 +24,7 @@ There are a lot of areas where we do well today — memorization, practice probl
 
 <h2>Our solution</h2>
 
-<h2>_Every_ journey contains surprises</h2>
+<h2><em>Every</em> journey contains surprises</h2>
 
 <h2>Key takeaways</h2>
 
