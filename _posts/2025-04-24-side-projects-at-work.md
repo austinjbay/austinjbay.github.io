@@ -20,7 +20,7 @@ A fall 2024 survey of over 1,000 college students found that 52% have trouble co
 
 <a href="https://kahoot.com/kahoot-study-survey/"><img src="/assets/images/study-challenges.jpg"></a>
 
-And with +19M college students in the United States, we thought <em>how might we help with time management and focus</em>?
+There are a lot of areas where we do well today — memorization, practice problems, and interactive games that help students learn, but one area where we haven't invested in is productivity. With +19M college students in the United States, we thought <em>how might we help with time management and focus</em>, while giving students a reason to come back and study more often?
 
 <blockquote>
   
