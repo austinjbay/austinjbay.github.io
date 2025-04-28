@@ -1,6 +1,6 @@
 ---
 title: "In defense of side projects"
-subtitle: Chasing a spark to build something real and imperfect
+subtitle: Where curiosity drives creation
 description: "Time carved out for pet projects is hard-won at work these days, but there's so much value in spending time outside official company projects."
 date: 2025-04-24
 layout: post
