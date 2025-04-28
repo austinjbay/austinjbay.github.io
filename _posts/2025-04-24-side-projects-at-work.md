@@ -9,7 +9,7 @@ image: '/assets/images/pomodoro timer.jpg'
 
 At a company like Quizlet, where most of our time is spent focused on core initiatives, it can be easy to let experimental ideas fall  by the wayside or never even make it into a discussion about team priorities. 
 
-But sometimes, small sparks outside of the roadmap can help us find a way forward — or at the very least, give us something valuable that we didn't know we needed. 
+But sometimes, small sparks outside of the roadmap can help us explore clever solutions to old problems — or at the very least, teach us someting new. 
 
 This past fall, a <a href="https://quizlet.com/features/pomodoro-timer">Pomodoro Timer</a> became a side project we all kind of fell in love with and it reminded us that that sometimes there's a lot of value in exploring ideas outside of the set roadmap. 
 
