@@ -11,10 +11,6 @@ With the demand on product managers from tops-down company initiatives, it's eas
 
 But sometimes, small sparks from within the team can generate clever solutions to old problems — or at the very least, teach us someting new. 
 
-From _biology flashcards_ to _DOD exam study questions_, our organic footprint is hyper-optimized for users who are looking for specific study content. From specific homework questions test questions, we're a go-to resource.
-
-But with AI, we came up with an idea to future-proof our visibility by launching free, publicly accessible tools that create a new side door into our ecosystem.
-
 a <a href="https://quizlet.com/features/pomodoro-timer">Pomodoro Timer</a> became a side project we all kind of fell in love with and it reminded us that that sometimes there's a lot of value in exploring ideas outside of the set roadmap. 
 
 If not for business impact, then just for our own happiness as a team. 
