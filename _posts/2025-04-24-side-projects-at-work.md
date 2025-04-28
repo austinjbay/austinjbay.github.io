@@ -11,9 +11,7 @@ With the demand on product managers from tops-down company initiatives, it's eas
 
 But sometimes, small sparks from within the team can generate clever solutions to old problems — or at the very least, teach us someting new. 
 
-a <a href="https://quizlet.com/features/pomodoro-timer">Pomodoro Timer</a> became a side project we all kind of fell in love with and it reminded us that that sometimes there's a lot of value in exploring ideas outside of the set roadmap. 
-
-If not for business impact, then just for our own happiness as a team. 
+In a team brainstorm where we came up with ideas for new growth vectors, this idea of creating a <a href="https://quizlet.com/features/pomodoro-timer">Pomodoro Timer</a> was born. 
 
 <h2>The problem space</h2>
 I'm not a mind reader—and I'm definitely not trying to be—but students have made one thing very clear: staying focused is hard. Between phones that never stop buzzing, group chats that somehow always light up during study time, and the ever-present pressure to be doing <em>all the things</em>, it’s like the universe is running a full-time distraction service made just for them. 
