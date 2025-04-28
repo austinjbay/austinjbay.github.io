@@ -7,7 +7,7 @@ layout: post
 image: '/assets/images/pomodoro timer.jpg'
 ---
 
-At a company like Quizlet, where most of our time is spent focused on core initiatives, it can be easy to let experimental ideas fall  by the wayside or never even make it into a discussion about team priorities. 
+With the demand from on product management roadmaps from tops-down company initiatives, it can be easy to let experimental ideas fall by the wayside or never even make it into a discussion about team priorities. 
 
 But sometimes, small sparks outside of the roadmap can help us explore clever solutions to old problems — or at the very least, teach us someting new. 
 
