@@ -25,7 +25,7 @@ And in some cases, instead of pushing back distractions with our product, we wer
 <h2>Our solution</h2>
 Could time management be a growth vector for Quizlet? Are there <em>lightweight</em> ways we might be able to release featuers that get us closer to answering that question? If so, where do we start and how long do we wait before calling it quits? 
 
-These were just a few of the questions swirling around the team's head. With some data to support that there's a there there, we began to cobble together a timer experience that we felt good about and along the way, we learned that there's a lot more to internal timers than meets the eye.
+These were just a few of the questions swirling around the team's head. With some data<a href="https://www.thenewshouse.com/campus-news/orange-pulse/students-share-thoughts-on-study-habits-and-procrastination/#:~:text=With%20procrastination%20being%20a%20major,maintain%20concentration%20and%20prevent%20burnout"><sup>1</sup></a> to support that there was a there there, we began to cobble together a Pomodoro experience that we felt good about and along the way, we learned that there's a lot more to internal timers than meets the eye.
 
 <h2>Key takeaways</h2>
 
