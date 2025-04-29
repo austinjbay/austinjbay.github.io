@@ -18,8 +18,7 @@ Students have made one thing very clear: focus is a commodity that they're willi
 
 A fall 2024 survey of over 1,000 college students found that 52% have trouble concentrating on tasks <em>several times</em> a week or more. In the same study, 51% of students reported feeing overwhelming stress or anxiety on a weekly basis, showing that over half of college students regularly struggle to focus.<a href="https://kahoot.com/press/2024/10/29/study-habits-snapshot-2024/#:~:text=match%20at%20L142%20challenges%2C%20with,a%20week%20or%20every%20day:"><sup>1</sup></a>
 
-There are a lot of areas where we do well today — memorization, practice problems, and interactive games that help students learn, but one area where we haven't invested in is productivity. With +19M college students in the United States, we thought <em>how might we help with time management and focus</em>, while giving students a reason to come back and study more often? 
-
+There are a lot of areas where our product serves students well today, like memorization, practice problems, and classroom games, but we left the herculean challenge of focus to our students. 
 <h2>Our solution</h2>
 
 <h2><em>Every</em> journey contains surprises</h2>
