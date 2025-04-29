@@ -18,7 +18,9 @@ Students have made one thing very clear: focus is a commodity with an increasing
 
 A fall 2024 survey of +1,000 college students found that 52% have trouble concentrating on tasks <em>several times</em> a week or more. In the same study, 51% of students reported feeing overwhelming stress or anxiety on a weekly basis, showing that over half of college students regularly struggle to focus.<a href="https://kahoot.com/press/2024/10/29/study-habits-snapshot-2024/#:~:text=match%20at%20L142%20challenges%2C%20with,a%20week%20or%20every%20day:"><sup>1</sup></a>
 
-There are a lot of areas where our product serves students well today, like memorization, practice problems, and classroom games, but as we workshopped our ideas we stumbled into a shared truth — we had left the herculean challenge of focus to students. And in some cases, instead of pushing back distractions with our product, we were introducing our own set of demands.
+There are a lot of areas where our product serves students well today, like memorization, practice problems, and classroom games, but as we workshopped our ideas we stumbled into a shared truth — we had left the herculean challenge of focus to students. 
+
+And in some cases, instead of pushing back distractions with our product, we were introducing our own set of demands.
 
 <h2><em>Every</em> journey contains surprises</h2>
 Stridently backed with third-party data we thought, how could this not work?! Wrong.
