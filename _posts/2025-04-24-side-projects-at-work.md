@@ -35,3 +35,8 @@ These were just a few of the questions we had while starting on this quest. And 
 
 <h2>Key takeaways</h2>
 
+<ul>
+  <li><b>We leveled up our ability to build and launch simple, impactful tools quickly.</b>Building the Pomodoro Timer pushed the team into areas slightly adjacent to our core day-to-day work — rapid prototyping, lightweight user research, growth-focused product development.
+Even though it wasn’t part of the “main quest” roadmap, it sharpened our ability to ship a tool quickly, test demand with minimal friction, and work across design, engineering, and product in a tighter, faster loop.</li>
+  
+</ul>
