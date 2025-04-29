@@ -20,10 +20,8 @@ A fall 2024 survey of +1,000 college students found that 52% have trouble concen
 
 There are a lot of areas where our product serves students well today, like memorization, practice problems, and classroom games, but as we workshopped our ideas we stumbled into a shared truth — we had left the herculean challenge of focus to students. And in some cases, instead of pushing back distractions with our product, we were introducing our own set of demands.
 
-<h2>Our solution</h2>
-
-
 <h2><em>Every</em> journey contains surprises</h2>
+Stridently backed with third-party data we thought, how could this not work?! Wrong.
 
 <h2>Key takeaways</h2>
 
