@@ -43,10 +43,10 @@ These are now tools we can reuse not just for focus-related features, but for an
 <li><b>It’s a portfolio piece for the team that reflects craftsmanship, agility, and creativity.</b> The Pomodoro Timer is now a living artifact we can point to:
 A tangible example of our team's ability to spot a student need (focus support), spin up a solution quickly, and create something delightful, brand-aligned, and functional.
 It’s a standalone showcase that captures initiative, taste, and cross-functional collaboration — visible to internal stakeholders, and even externally if we choose.</li>
-<li><b>It expanded our internal network and created new champions for future side innovations.</b> The side project opened doors to working with new groups across the company: performance marketing teams who wanted to promote it, SEO and editorial teams interested in embedding it into study resources, and even partnerships folks thinking about future tool bundles.
+<li><b>It expanded our internal network and created new champions for future side innovations.</b> The side project opened doors to working with new groups across the company: lifecycle marketing teams who wanted to promote it, product teams who thought about using it in context, and even partnerships folks thinking about our broader Quizlet network.
 People we wouldn’t normally collaborate with became part of the project’s orbit.</li>
 <li><b>We gained credibility and recognition for being proactive builders, not just roadmap executors.</b> Even though it was a "small" build, the timer got visibility across leadership and student communities — and it showed that small, student-centered ideas could have outsized brand and engagement impact.
-The project created a new narrative internally: that side projects can deliver real value, fast.</li>
+The project created a new narrative internally: that side projects can deliver real value, fast-ish.</li>
 </ul>
 
 Building the Pomodoro Timer wasn't just about creating a focus tool — it was about leveling up our team's skills, expanding our toolkit, building our creative portfolio, widening our network, and earning credibility for future bets. 
