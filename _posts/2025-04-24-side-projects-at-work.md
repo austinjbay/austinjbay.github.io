@@ -36,7 +36,21 @@ These were just a few of the questions we had while starting on this quest. And 
 <h2>Key takeaways</h2>
 
 <ul>
-  <li><b>We leveled up our ability to build and launch simple, impactful tools quickly.</b>Building the Pomodoro Timer pushed the team into areas slightly adjacent to our core day-to-day work — rapid prototyping, lightweight user research, growth-focused product development.
+  <li><b>We leveled up our ability to build and launch simple, impactful tools quickly.</b> Building the Pomodoro Timer pushed the team into areas slightly adjacent to our core day-to-day work — rapid prototyping, lightweight user research, growth-focused product development.
 Even though it wasn’t part of the “main quest” roadmap, it sharpened our ability to ship a tool quickly, test demand with minimal friction, and work across design, engineering, and product in a tighter, faster loop.</li>
-  
+  <li><b>We came away with playbooks and intuition that will make future bets faster and smarter.</b> Through the project, we developed lightweight internal frameworks — like how to validate side projects, how to track usage without overbuilding analytics, and how to balance polish vs. speed.
+These are now tools we can reuse not just for focus-related features, but for any future lightweight experimentation. </li>
+<li><b>It’s a portfolio piece for the team that reflects craftsmanship, agility, and creativity.</b> The Pomodoro Timer is now a living artifact we can point to:
+A tangible example of our team's ability to spot a student need (focus support), spin up a solution quickly, and create something delightful, brand-aligned, and functional.
+It’s a standalone showcase that captures initiative, taste, and cross-functional collaboration — visible to internal stakeholders, and even externally if we choose.</li>
+<li><b>It expanded our internal network and created new champions for future side innovations.</b> The side project opened doors to working with new groups across the company: performance marketing teams who wanted to promote it, SEO and editorial teams interested in embedding it into study resources, and even partnerships folks thinking about future tool bundles.
+People we wouldn’t normally collaborate with became part of the project’s orbit.</li>
+<li><b>We gained credibility and recognition for being proactive builders, not just roadmap executors.</b> Even though it was a "small" build, the timer got visibility across leadership and student communities — and it showed that small, student-centered ideas could have outsized brand and engagement impact.
+The project created a new narrative internally: that side projects can deliver real value, fast.</li>
 </ul>
+
+Building the Pomodoro Timer wasn't just about creating a focus tool — it was about leveling up our team's skills, expanding our toolkit, building our creative portfolio, widening our network, and earning credibility for future bets. 
+
+Side quests aren’t distractions. 
+
+They're how you build the muscles and artifacts that change what we think as possible for our teams.
