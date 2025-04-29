@@ -53,4 +53,4 @@ Building the Pomodoro Timer wasn't just about creating a focus tool — it was a
 
 Side quests aren’t distractions. 
 
-They're how you build the muscles and artifacts that change what we think as possible for our teams.
+They're how we build the muscles and artifacts that change what we think as possible for our teams.
