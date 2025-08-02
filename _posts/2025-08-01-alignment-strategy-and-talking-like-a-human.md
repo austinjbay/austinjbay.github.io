@@ -7,7 +7,7 @@ layout: post
 image: '/assets/images/path.jpg'
 ---
 
-This week was a swirl of conversations—some quick, some heavy, most unplanned. And the through-line was this: so much of product work is just... saying things out loud, clearly, to the right people, at the right time. Here's what I scribbled in the margins this week.
+This week was a swirl of conversations—some quick, some heavy, most unplanned. And the through-line was this: so much of product work is just...saying things out loud, clearly, to the right people, at the right time. Here's what I scribbled in the margins this week.
 
 <h2>Strategy Isn’t Strategy if It’s Not Repeatable</h2>
 I realized mid-week that I’ve been defaulting to strategic shorthand in too many places. I’ll reference a priority or goal assuming everyone’s aligned on what it means—but I haven’t always done the work to translate it into something repeatable.
