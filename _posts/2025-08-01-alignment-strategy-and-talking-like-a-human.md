@@ -14,6 +14,14 @@ I realized mid-week that I’ve been defaulting to strategic shorthand in too ma
 
 My coach asked, “Could your team explain the strategy without you in the room?” And the answer (if I’m being honest) is: not consistently. That’s not a knock on them. That’s on me. So I’ve been pressure-testing how I talk about what we’re doing and why. Trying to keep it crisp. Swapping long threads for one-liners that stick.
 
+Some of my favorite from this week:
+
+<ul>
+  <li>If it takes a paragraph to explain, we’re not aligned on the strategy.</li>
+  <li>Everyone should be able to repeat the strategy without me in the room.</li>
+  <li>Simplifying strategy doesn't mean dumbing it down, rather turning the signal up.</li>
+</ul>
+
 <h2>Most Product Work Happens in Side Conversations</h2>
 The best product convo I had this week wasn’t scheduled. It happened walking out of another meeting. We talked about sequencing experiments and how we’re defining success for the next phase—not with a slide, but with shorthand, trust, and context.
 
