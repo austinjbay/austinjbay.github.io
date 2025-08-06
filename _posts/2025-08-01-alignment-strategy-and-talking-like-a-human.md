@@ -1,6 +1,6 @@
 ---
 title: "Notes from This Week: Alignment, Strategy, and Talking Like a Human"
-subtitle: Where detours lead to breakthroughs
+subtitle: Everyone should be able to repeat the strategy
 description: "A week of small adjustments, side conversations, and figuring out what clarity really means."
 date: 2025-08-01
 layout: post
