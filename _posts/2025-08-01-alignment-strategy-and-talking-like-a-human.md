@@ -4,7 +4,7 @@ subtitle: Where detours lead to breakthroughs
 description: "A week of small adjustments, side conversations, and figuring out what clarity really means."
 date: 2025-08-01
 layout: post
-image: '/assets/images/simple.jpg'
+image: '/assets/images/simple'
 ---
 
 This week was a swirl of conversations—some quick, some heavy, most unplanned. And the through-line was this: so much of product work is just...saying things out loud, clearly, to the right people, at the right time. Here's what I scribbled in the margins this week.
