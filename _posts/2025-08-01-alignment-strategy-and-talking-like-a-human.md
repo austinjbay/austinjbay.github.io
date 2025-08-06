@@ -4,7 +4,7 @@ subtitle: Everyone should be able to repeat the strategy
 description: "A week of small adjustments, side conversations, and figuring out what clarity really means."
 date: 2025-08-01
 layout: post
-image: '/assets/images/simple.PNG'
+image: '/assets/images/communication.PNG'
 ---
 
 This week was a swirl of conversations—some quick, some heavy, most unplanned. And the through-line was this: so much of product work is just...saying things out loud, clearly, to the right people, at the right time. Here's what I scribbled in the margins this week.
