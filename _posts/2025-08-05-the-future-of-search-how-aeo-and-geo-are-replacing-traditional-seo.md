@@ -1,6 +1,6 @@
 title	subtitle	description	date	layout	image
-Notes from This Week: Alignment, Strategy, and Talking Like a Human
-Where detours lead to breakthroughs
+The Future of Search: How AEO and GEO Are Replacing Traditional SEO
+When Zero-Click Answers Rule Search
 A week of small adjustments, side conversations, and figuring out what clarity really means.
 2025-08-01
 post
