@@ -1,8 +1,8 @@
 title	subtitle	description	date	layout	image
 The Future of Search: How AEO and GEO Are Replacing Traditional SEO
 When Zero-Click Answers Rule Search
-A week of small adjustments, side conversations, and figuring out what clarity really means.
-2025-08-01
+With AI-powered search engines handling over 500 million queries and 60% of Google searches ending without clicks, traditional SEO strategies are rapidly becoming outdated.
+2025-08-05
 post
 /assets/images/path.jpg
 
