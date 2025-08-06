@@ -4,7 +4,7 @@ subtitle: When Zero-Click Answers Rule Search
 description: "With AI-powered search engines handling over 500 million queries and 60% of Google searches ending without clicks, traditional SEO strategies are rapidly becoming outdated."
 date: 2025-08-05
 layout: post
-image: /assets/images/seo-to-aeo.png
+image: /assets/images/seo-to-aeo
 ---
 
 The way people search for information online has fundamentally changed. [Nearly 60% of Google searches ended without anyone clicking on a website in 2024](https://www.semrush.com/blog/zero-click-searches/), signaling a massive shift toward zero-click answers that provide instant information directly in search results.
