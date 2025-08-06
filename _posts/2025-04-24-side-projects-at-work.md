@@ -4,7 +4,7 @@ subtitle: Where detours lead to breakthroughs
 description: "Time carved out for pet projects is hard-won at work these days, but there's so much value in spending time outside official company projects."
 date: 2025-04-24
 layout: post
-image: '/assets/images/pomodoro timer.jpg'
+image: '/assets/images/side-quest.PNG'
 ---
 
 With the demand on product managers from tops-down company initiatives, it's easy to let bottoms-up, experimental ideas fall by the wayside or never even make it into planning ceremonies. 
