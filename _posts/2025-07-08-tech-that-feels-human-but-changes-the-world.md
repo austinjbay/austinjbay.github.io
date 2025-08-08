@@ -1,3 +1,7 @@
+--
+image: assets/images/08138713-E4D1-4755-BCDE-16E908040EA3.PNG
+--
+
 Hey folks—pull up a chair, and let’s talk about the tech stories that are actually shaping our world… you know, the kind that aren’t just blowing up headlines with hype.
 
 When Spending $155 Billion Is Just the Beginning
