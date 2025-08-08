@@ -24,8 +24,8 @@ In another corner of our industry, the long‑running Epic Games battle with App
 ⸻
 
 <h2>Why This Matters—For You, Me, and Everyone</h2>
-	•	AI is more than buzz—it’s transforming everything from infrastructure to school curricula.
-	•	Policy matters—tariffs, court rulings, and education programs all steer the ship.
-	•	We’re in a pivot—where what happens in Silicon Valley, Sacramento, and D.C. gets personal.
+	• AI is more than buzz—it’s transforming everything from infrastructure to school curricula.
+	• Policy matters—tariffs, court rulings, and education programs all steer the ship.
+	• We’re in a pivot—where what happens in Silicon Valley, Sacramento, and D.C. gets personal.
 
 So let’s stay curious, question assumptions, and remember: these big-picture moves are the groundwork for the gadgets, jobs, and ideas that end up in our lives.
