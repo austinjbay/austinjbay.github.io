@@ -9,11 +9,11 @@ image: assets/images/08138713-E4D1-4755-BCDE-16E908040EA3.PNG
 
 <h2>When Spending $155 Billion Is Just the Beginning</h2>
 
-It’s astonishing—but not shocking—how tech giants have poured $155 billion into AI this year alone, dwarfing what the U.S. government spends on education, jobs, and social services combined. That isn’t just money—it’s the underline on a thesis: AI isn’t the future. It’s now.
+It’s astonishing—but not shocking—how tech giants have poured $155 billion into AI this year alone, dwarfing what the U.S. government spends on education, jobs, and social services combined. That isn’t just money, it’s the underline on a thesis: AI isn’t the future. It’s now.
 
 <h2>Silicon Valley Meets Policy at the Whiteboard</h2>
 
-In the U.S., markets rallied after President Trump floated a major concession: semiconductor tariffs might not apply to companies investing in U.S. chip manufacturing. Stocks like Apple, Nvidia, AMD, and Broadcom jumped, riding optimism that U.S. production could be rewarded—not punished.
+In the U.S., markets rallied after President Trump floated a major concession: semiconductor tariffs might not apply to companies investing in U.S. chip manufacturing. Stocks like Apple, Nvidia, AMD, and Broadcom jumped, riding optimism that U.S. production could be rewarded—not punished. 
 
 Meanwhile, back in California, Governor Gavin Newsom has doubled down on AI’s future—partnering with Google, Microsoft, IBM, and Adobe to bring AI training to high schools and colleges statewide. Not flashy, but deeply important. Tech isn’t just allocation—it’s education.
 
