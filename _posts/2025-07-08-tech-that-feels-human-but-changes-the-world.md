@@ -1,5 +1,11 @@
---
+---
+title: "Tech That Feels Human But Changes The World"
+subtitle: From $155B to Semiconductor Tariffs
+description: "From billion-dollar AI bets to courtroom battles, here’s how today’s tech moves are rewriting tomorrow."
+date: 2025-08-07
+layout: post
 image: assets/images/08138713-E4D1-4755-BCDE-16E908040EA3.PNG
+---
 --
 
 Hey folks—pull up a chair, and let’s talk about the tech stories that are actually shaping our world… you know, the kind that aren’t just blowing up headlines with hype.
