@@ -1,284 +1,299 @@
 ---
-title: "Writing Hypothesis Statements"
+title: "Writing hypothesis statements"
 subtitle: "A simple way to make product bets easier to discuss, test, and learn from"
-description: "Field notes on writing better hypothesis statements for product work, including a practical format, common mistakes, and why this habit improves decision-making."
+description: "Field notes on writing hypothesis statements that are specific enough to guide decisions without pretending to be certainty."
 date: 2026-03-28
-image: /assets/images/writing-hypotheses.png
+image: /assets/images/writing-hypothesis.png
 layout: post
 ---
 
-I keep coming back to hypothesis statements because they do something simple but useful: they make a product bet visible.
+I keep coming back to hypothesis statements because they do something simple but useful: they slow down the rush to solutions.
 
-A lot of work gets described as obvious once a team is already moving. We should ship this. We should redesign that. We should add onboarding. We should send more lifecycle email. We should simplify pricing. Sometimes those ideas are right. But without writing down the belief underneath them, it gets hard to tell whether we're making a clear bet or just following momentum.
+A team sees a problem, someone suggests a feature, and within a few minutes people are talking about scope, delivery dates, and edge cases. That can feel productive. Sometimes it is. But often it means we skipped the more important question:
 
-A hypothesis statement slows things down just enough to ask: what do we think will happen, for whom, and why?
+What, exactly, do we believe will happen if we do this?
 
-That small pause is often where better product thinking starts.
+A hypothesis statement gives that belief a shape.
 
-## Why bother writing one?
+Not a perfect shape. Not a scientific paper. Just enough structure to make the bet visible.
 
-Most teams already have opinions. They already have intuition. They already have pressure from customers, leadership, sales, support, or the market. A hypothesis statement doesn't remove any of that. It just gives the team a cleaner way to reason about it.
+## Why bother writing one
 
-I've found a written hypothesis helps with a few things:
+Most product work is uncertainty management dressed up as planning.
 
-- It separates the **idea** from the **assumption**
-- It makes discussion less fuzzy
-- It gives research, design, product, engineering, and marketing a shared sentence to react to
-- It creates a baseline for learning later
-- It reduces the temptation to rewrite history after a launch
+We have signals. We have patterns. We have opinions with different levels of conviction. We almost never have full certainty. A hypothesis statement is useful because it forces a team to say out loud:
 
-Without that structure, teams often argue about solutions when they haven't aligned on the problem or expected outcome.
+- what change we want to make
+- who it is for
+- what outcome we expect
+- why we think that outcome might happen
+- how we’ll know if we were directionally right
 
-## What a hypothesis statement actually is
+That sounds obvious, but in practice a lot of roadmapping happens without those pieces being connected.
 
-At its core, a hypothesis statement is a testable belief.
+Instead, teams talk in fragments:
 
-Not a goal.
-Not a task.
-Not a feature description.
+- “Users are confused.”
+- “We should improve onboarding.”
+- “Activation is low.”
+- “Sales keeps hearing this objection.”
+- “Competitor X does it this way.”
 
-It's a concise statement connecting:
+All of those may be true. None of them are a hypothesis yet.
 
-- a change you plan to make
-- the audience affected
-- the outcome you expect
-- the reason you believe that outcome will happen
+## What a good hypothesis statement does
 
-A simple format I like is:
+A good hypothesis statement creates alignment without creating false precision.
 
-> We believe that for [audience], if we [change/intervention], then [expected outcome] because [insight/evidence].
+It should be clear enough that a designer can use it to shape concepts, a PM can use it to define what to measure, and an engineer can understand the intent behind the work.
 
-That format is plain on purpose. It doesn't need to sound smart. It needs to be easy to understand and easy to challenge.
+It should also be humble. The point is not to predict the future perfectly. The point is to make your current thinking legible so you can update it later.
 
-## A basic example
+That’s a big shift.
 
-Here's a weak version:
+Without a hypothesis, teams often defend output. With a hypothesis, teams can discuss learning.
 
-> We should improve onboarding.
+## A simple format
 
-That may be directionally fine, but it leaves too much unsaid. Improve it how? For whom? To what end? Based on what insight?
+The format I come back to most often is:
 
-Now a stronger version:
+> We believe that for **[user or segment]**, changing **[experience / behavior / system]** by **[intervention]** will result in **[expected outcome]**. We believe this because **[insight / evidence / reasoning]**. We’ll know we’re right if **[signal / measure / observed behavior]**.
 
-> We believe that for new team admins, if we replace the generic setup checklist with a role-specific onboarding flow, then more accounts will complete setup in their first session because admins currently have to translate broad instructions into next steps on their own.
+You do not need to use this exact sentence every time. But it helps to include those ingredients.
 
-That version gives the team something concrete to work with. You can design around it. You can instrument it. You can ask whether the belief is true.
+If I shorten it even further, it becomes:
 
-## The parts that matter
+> For **who**, if we do **what**, we expect **what result**, because **why**, and we’ll measure it by **how**.
 
-When I write these, I try to make each part carry its weight.
+That’s the core.
 
-### Audience
+## What makes a hypothesis weak
 
-Be specific about who the bet is for.
+Most weak hypothesis statements fail in one of a few predictable ways.
 
-"Users" is usually too broad. Different users have different jobs, motivations, and constraints. The narrower you can get without becoming awkward, the better.
+### It describes a solution, not a belief
 
-Examples:
+This is the most common one.
 
-- new solo creators
-- first-time workspace admins
-- trial users from paid search
-- returning customers who haven't used the feature in 30 days
+> We will build a personalized dashboard for new users.
 
-This matters because a lot of weak hypotheses hide segmentation problems inside generic language.
+That’s not a hypothesis. That’s a decision.
 
-### Change
+A hypothesis would explain what that dashboard is expected to change.
 
-Say what you are changing, not just what area you're working in.
+> We believe that giving new users a personalized dashboard will help them find relevant next steps faster, leading to more users completing setup in their first session.
 
-Not:
+Now there is something to test.
 
-> improve search
+### It is too vague to be useful
 
-More like:
+> We believe improving the homepage will improve engagement.
 
-> add suggested queries and recent searches to the empty state
+Maybe. But what does “improving” mean? Which users? What kind of engagement?
 
-The team needs to understand the intervention clearly enough that they can discuss alternatives.
+Vague hypotheses are hard to challenge and hard to learn from. They create the appearance of rigor without much practical value.
 
-### Expected outcome
+### It pretends to be more certain than it is
 
-This is where a lot of statements become vague.
+> Adding feature X will increase retention by 17%.
 
-"Make the experience better" is not enough. Better in what way? Faster activation? Higher conversion? More qualified leads? Fewer support requests? More repeat usage?
+Sometimes you do have enough historical context to estimate impact ranges. But teams often use precise numbers too early because precision sounds credible.
 
-The expected outcome should be observable. It doesn't have to be perfectly measurable in the sentence, but it should point toward something you could actually validate.
+Usually it’s better to state direction first, then define the signal you expect to move.
 
-### Why
+For example:
 
-This is the most important part.
+> We expect this to improve week-one retention among newly activated users.
 
-The "because" forces you to name the insight underneath the bet. Maybe it came from interviews. Maybe from funnel analysis. Maybe from usability testing. Maybe from support tickets. Maybe from pattern recognition built over time.
+That’s easier to discuss honestly.
 
-Whatever the source, write it down.
+### It doesn’t include the why
 
-If the team struggles to finish the sentence after "because," that's usually a sign the idea is less grounded than it seemed.
+When the reasoning is missing, the team can’t assess whether the idea is sound or transferable.
 
-## A practical template
+The “because” matters. Even if the reasoning later turns out to be wrong, writing it down helps everyone understand what assumption was carrying the most weight.
 
-This is the version I use most often:
+## A practical example
 
-> We believe that for **[specific audience]**, if we **[make this change]**, then **[this outcome will happen]** because **[this user or market insight is true]**.
+Let’s say a team notices that many trial users invite no teammates before their trial ends.
 
-If I want a slightly more operational version, I add how we'll know:
+A weak version:
 
-> We believe that for **[specific audience]**, if we **[make this change]**, then **[this outcome will happen]** because **[this insight is true]**. We'll know we're right if we see **[signal or metric]**.
+> We should add an invite teammates banner to the app.
 
-That extra sentence is helpful when a team tends to launch things without agreeing on what success looks like.
+A better hypothesis:
 
-## What makes a hypothesis good enough
+> We believe that for trial users evaluating the product with a team, prompting them to invite collaborators during the first successful workflow will increase team invites during the trial period. We believe this because users often understand the product’s value only after completing an initial task, and that moment creates a more natural prompt for collaboration. We’ll know we’re right if more trial accounts send at least one invite and if invited accounts show stronger progression toward activation.
 
-I don't think these need to be academic. They just need to be useful.
+That version gives you something to work with.
 
-A good hypothesis statement is usually:
+You can debate the target user. You can question the timing. You can decide whether “first successful workflow” is the right trigger. You can define what progression toward activation means.
 
-- specific enough to debate
-- simple enough to remember
-- grounded enough to justify action
-- testable enough to learn from
+You can learn.
 
-It is not supposed to predict the future with precision. It is supposed to make your current thinking legible.
+## Hypotheses are not just for experiments
 
-That distinction matters.
+Sometimes people hear “hypothesis statement” and immediately think of A/B tests.
 
-## Common failure modes
+That’s one use. Not the only use.
 
-I've written plenty of bad ones. Usually they fail in familiar ways.
+A hypothesis is useful any time a team is making a bet under uncertainty, including:
 
-### It's just a feature pitch
+- new feature concepts
+- onboarding changes
+- lifecycle messaging
+- packaging and pricing tests
+- internal workflow improvements
+- sales enablement materials
+- content or growth loops
+- marketplace or platform changes
 
-Sometimes the statement is really just:
+Not every hypothesis gets a formal experiment. Some get usability testing. Some get a prototype. Some get a lightweight launch with close observation. Some get a “this is the best next step, but let’s write down what we think will happen.”
 
-> We believe adding dashboards will help users.
+The value is not in ceremony. The value is in clarity.
 
-That's not a hypothesis. It's a solution-shaped assumption with no real context.
+## The hidden benefit: better conversations
 
-Push further:
-Who needs the dashboard?
-What decision are they trying to make?
-What friction exists today?
-What would improve if the dashboard worked?
+This is the part I appreciate most.
 
-### It's too broad
+A written hypothesis changes how a room talks.
 
-If the audience is everyone and the outcome is "engagement," the team will have trouble designing or evaluating anything.
+Instead of people arguing in generalities, they react to the parts:
 
-Broad statements feel safe, but they often create messy execution because every function fills in the blanks differently.
+- Is this the right segment?
+- Is this the main friction?
+- Why do we think this intervention addresses that friction?
+- What outcome actually matters here?
+- What would count as a real signal versus noise?
 
-### It skips the evidence
+That is a much better conversation than “Should we build this?”
 
-A statement without a "because" tends to reveal one of two things:
+It also makes disagreement more useful. Someone can say, “I agree with the problem, but not the mechanism,” or “I think the audience is too broad,” or “I don’t think that metric captures the behavior we care about.”
 
-- the team hasn't done enough learning yet
-- the rationale exists but lives in people's heads
+That kind of specificity is a gift.
 
-Both are fixable. But if the rationale stays unwritten, alignment stays fragile.
+## How I like to write them
 
-### It confuses outputs with outcomes
+A few practical preferences:
 
-Shipping a thing is not the same as achieving a result.
+### Start with the user, not the feature
 
-This is subtle but common. Teams say things like:
+If the first thing in the sentence is the thing you want to build, you may already be narrowing too fast.
 
-> We believe launching the resource center will improve adoption.
+Starting with the user or situation helps keep the focus on the change you want to create.
 
-But the launch is the output. The hypothesis should focus on the behavior change or business effect expected after the launch.
+### Name the behavior when possible
 
-### It's impossible to learn from
+Behavior is often more useful than sentiment.
 
-Some statements are so loose that any result can be interpreted as success.
+“Users understand the value better” is harder to work with than “more users complete setup and return within a week.”
 
-A useful hypothesis creates the possibility of being wrong. That's part of the point.
+Sentiment matters too, but behavior usually gives the team something firmer to observe.
 
-## How this changes team conversations
+### Make the scope small enough to test
 
-The nice thing about hypothesis statements is not the document itself. It's what happens in the room after it's written.
+If your hypothesis covers five audiences, three channels, and a full quarter of downstream effects, it’s probably too broad.
 
-People start asking better questions:
+Shrink it until it becomes discussable.
 
-- Why this audience first?
-- What evidence supports that belief?
-- Is that the real bottleneck?
-- What outcome matters most here?
-- Could we test the assumption in a cheaper way?
-- What would make us change our mind?
+### Write the reason in plain language
 
-Those are healthier conversations than debating polish or preferences too early.
+You do not need to make the “because” sound sophisticated.
 
-I've also noticed that writing the hypothesis can reduce unproductive conflict across functions. Design can challenge whether the proposed change actually addresses the need. Engineering can suggest a smaller test. Marketing can weigh in on whether the audience framing makes sense. Support can validate whether the pain shows up in tickets. Product can connect the bet to strategy.
+Just say what you think is true.
 
-One sentence doesn't solve alignment. But it does give alignment a place to start.
+- users don’t see the benefit early enough
+- the prompt appears before trust is established
+- people need an example before taking action
+- the workflow asks for too much commitment up front
 
-## A few examples across product work
+That’s enough.
 
-Here are a few more examples to show the pattern.
+### Pair it with explicit assumptions
 
-### Activation
+Sometimes the hypothesis is solid, but it rests on assumptions that deserve their own light.
 
-> We believe that for new users invited by a teammate, if we personalize the first-run experience around the task they were invited to complete, then more users will reach their first successful action in the first day because the current onboarding asks them to learn the whole product before doing the job they came for.
+For example:
 
-### Retention
+- users notice the prompt
+- the timing feels relevant rather than interruptive
+- inviting teammates is a leading indicator of value realization
+- invited teammates can onboard without support
 
-> We believe that for managers who create a weekly report, if we let them schedule and automatically send recurring reports, then more of them will stay active month to month because the product becomes part of an existing habit instead of requiring a manual repeat action.
+You don’t always need to include all of these in the statement itself, but it helps to name them nearby.
 
-### Monetization
+## A lightweight template
 
-> We believe that for high-intent trial users, if we show plan limits at the moment they try to use premium functionality, then more users will upgrade because the value of the paid plan is clearer in context than on the pricing page alone.
+If I were dropping this into a planning doc, I’d use something like this:
 
-### Lifecycle marketing
+> **Hypothesis**  
+> We believe that for **[specific user]**, **[change we make]** will lead to **[expected outcome]** because **[reasoning]**.
+>
+> **Leading signal**  
+> We expect to see **[observable behavior or metric movement]**.
+>
+> **Key assumptions**  
+> - **[assumption 1]**  
+> - **[assumption 2]**  
+> - **[assumption 3]**
+>
+> **What we’ll learn**  
+> This will help us understand whether **[core question]**.
 
-> We believe that for users who started setup but did not connect their data source, if we send a short email sequence focused on setup blockers and examples, then more users will complete setup because many stalls happen after the first session when users lose momentum and context.
+Simple. Usually enough.
 
-None of these are perfect. That's fine. They are clear enough to work with.
+## What happens after you write it
 
-## Where hypothesis statements fit in the workflow
+Writing the hypothesis is not the work. It just improves the work that follows.
 
-I don't see hypothesis writing as a separate ceremony. It fits naturally into work the team is already doing.
+Once you have one, a few next questions become easier:
 
-You can use it:
+- What is the cheapest way to test this belief?
+- What evidence would increase confidence?
+- What evidence would make us change direction?
+- Are we testing the right layer of the problem?
+- What assumptions are most fragile?
 
-- before starting discovery
-- when framing an experiment
-- before writing a PRD
-- when aligning stakeholders on why a project matters
-- before a launch review
-- during retros to compare expected vs actual outcomes
+I like hypothesis statements most when they stay alive through the process.
 
-Sometimes I write one very early and revise it as the team learns. That revision is a feature, not a problem. If the hypothesis changes, it usually means understanding improved.
+Not as a box to check at kickoff, but as a reference point during design reviews, launch planning, and retrospectives.
 
-## A lightweight habit that pays off
+If the team ships something different from the original idea, update the hypothesis. If the results surprise you, revisit the reasoning. If nothing moved, ask whether the intervention failed or whether the signal was wrong.
 
-If you're trying to build this habit on a team, keep it light.
+The point is to keep the loop tight between belief, action, and learning.
 
-A few practical ways to start:
+## One more example
 
-- Ask for a hypothesis statement in project briefs
-- Add a "because we believe..." section to planning docs
-- Review major bets by reading the hypothesis out loud
-- Revisit the original statement after launch and ask what changed
+Here’s a marketing-flavored one.
 
-The goal is not process theater. The goal is to make product reasoning easier to inspect.
+Weak version:
 
-## What I like most about this practice
+> We should create a comparison page against competitors.
 
-Writing hypothesis statements helps me stay honest.
+Better version:
 
-It reminds me that product work is full of uncertainty, even when a roadmap makes things look tidy. We're making bets with incomplete information. That's normal. The problem isn't uncertainty. The problem is pretending certainty where there isn't any.
+> We believe that for buyers already evaluating alternatives, a clear comparison page that explains tradeoffs in plain language will increase qualified demo conversions. We believe this because prospects in active evaluation often need help framing differences quickly, and generic homepage messaging does not answer those questions directly. We’ll know we’re right if visitors to the comparison page convert to demos at a higher rate than similarly high-intent visitors and if sales hears better-informed questions in early conversations.
 
-A hypothesis statement is a clean way to say: this is what we believe right now, and this is why.
+Again, not perfect. But usable.
 
-For a lot of teams, that's enough structure to make better decisions and have better conversations.
+## The bar is not perfection
 
-## A simple starting point
+I think some teams avoid writing hypotheses because they assume the statement has to be airtight.
 
-If you want a place to begin, use this:
+It doesn’t.
 
-> We believe that for **[audience]**, if we **[change]**, then **[outcome]** because **[insight]**.
+A rough hypothesis written honestly is more useful than a polished plan built on unstated assumptions.
 
-Write one before the next meaningful project.
-Keep it rough.
-Make it specific.
-Let people challenge it.
+The goal is not to sound smart. The goal is to expose the bet.
 
-Then come back later and see what you learned.
+When you do that, teams get a little less attached to solutions and a little more interested in understanding reality. That’s usually a healthy trade.
+
+## Closing thought
+
+A hypothesis statement is one of those small product habits that pays off quietly.
+
+It won’t make hard decisions easy. It won’t remove ambiguity. It won’t save a weak strategy.
+
+But it does create a better starting point for the kind of work most teams are actually doing: making imperfect decisions with partial information and trying to learn faster than they did last time.
+
+That’s enough reason for me to keep writing them.
