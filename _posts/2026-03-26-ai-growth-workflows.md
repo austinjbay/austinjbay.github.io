@@ -2,7 +2,7 @@
 title: "AI Growth Workflows"
 subtitle: "A practical way to use AI across the messy middle of growth work"
 description: "Field notes on using AI in growth workflows without turning strategy into autocomplete."
-date: 2026-03-28
+date: 2026-03-26
 image: /assets/images/ai-growth-strategies.png
 layout: post
 ---
