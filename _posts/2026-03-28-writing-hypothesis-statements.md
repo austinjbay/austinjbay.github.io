@@ -1,13 +1,13 @@
 ---
 title: "Writing hypothesis statements"
-subtitle: "A simple way to make product bets easier to discuss, test, and learn from"
-description: "Field notes on writing hypothesis statements that are specific enough to guide decisions without pretending to be certainty."
+subtitle: "A simple way to make product bets easier to discuss, test, and learn from."
+description: "Writing hypothesis statements that are specific enough to guide decisions without pretending to be certain."
 date: 2026-03-28
 image: /assets/images/writing-hypothesis.png
 layout: post
 ---
 
-I keep coming back to hypothesis statements because they do something simple but useful: they slow down the rush to solutions.
+I keep coming back to hypothesis statements because they do something simple but useful by slowing down the rush to solutions.
 
 A team sees a problem, someone suggests a feature, and within a few minutes people are talking about scope, delivery dates, and edge cases. That can feel productive. Sometimes it is. But often it means we skipped the more important question:
 
