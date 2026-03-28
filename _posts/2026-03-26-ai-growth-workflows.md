@@ -2,7 +2,7 @@
 title: "AI Growth Workflows"
 subtitle: "A practical way to use AI without turning your team into prompt managers"
 description: "Field notes on building AI growth workflows that help teams move faster, learn faster, and keep good judgment in the loop."
-date: 2026-03-28
+date: 2026-03-26
 image: /assets/images/ai-growth.png
 layout: post
 ---
