@@ -32,11 +32,6 @@
           </div>
           {% endif %}
 
-          {% if post.image %}
-          <a class="article__image" href="{{ post.url | prepend: site.baseurl }}">
-            <img class="lazy" data-src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}">
-          </a>
-          {% endif %}
         </div>
 
         <div class="article__content">
