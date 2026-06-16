@@ -5,6 +5,7 @@ description: "This is a place for me to hold space for half-formed thoughts, ref
 date: 2025-04-11
 image: '/assets/images/simple.PNG'
 layout: post
+tags: [Product Discovery]
 ---
 
 I’ve spent the last decade helping to build and grow products by shipping a metric ton of experiments, moving metrics, celebrating wins, and learning from losses. Along the way, I’ve filled countless physical notebooks, docs, Notion pages, and Slack DMs with half-formed thoughts, frameworks, and questions I never quite had time to polish or share.
