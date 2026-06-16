@@ -4,6 +4,7 @@ subtitle: Where detours lead to breakthroughs
 description: "Time carved out for pet projects is hard-won at work these days, but there's so much value in spending time outside official company projects."
 date: 2025-04-24
 layout: post
+tags: [Product Discovery]
 image: '/assets/images/side-quest.PNG'
 ---
 

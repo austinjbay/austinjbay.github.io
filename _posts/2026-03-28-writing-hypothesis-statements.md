@@ -5,6 +5,7 @@ description: "Writing hypothesis statements that are specific enough to guide de
 date: 2026-03-28
 image: /assets/images/writing-hypothesis.png
 layout: post
+tags: [Product Discovery]
 ---
 
 I keep coming back to hypothesis statements because they do something simple but useful by slowing down the rush to solutions.
