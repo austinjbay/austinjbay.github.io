@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Austin Bay
+title: Austin Yany
 name: Austin Bay
 ---
