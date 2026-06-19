@@ -1,5 +1,5 @@
 ---
-title: "The Bet Before the Roadmap"
+title: "The bet before the roadmap"
 subtitle: "How growth PMs turn fuzzy conviction into experiments worth running."
 description: "A lightweight bet memo template for turning early product conviction into practical experiments before the roadmap hardens around a solution."
 date: 2026-06-16
