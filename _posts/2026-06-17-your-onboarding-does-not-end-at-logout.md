@@ -35,7 +35,7 @@ Get the account created. Get the profile filled out. Get the first project spun 
 
 Sometimes those steps are necessary. They are just not sufficient.
 
-I keep coming back to this idea: a good first session should make the second session more likely and more useful.
+I keep coming back to this idea that a good first session should make the second session more likely and more useful.
 
 That sounds obvious, but plenty of onboarding flows are still built around administrative completion instead of future intent.
 
@@ -87,7 +87,7 @@ It is also more useful.
 
 ## The design job is not just simplification. It is sequencing.
 
-I like [NN/g’s old piece on progressive disclosure](https://www.nngroup.com/articles/progressive-disclosure/) because it reinforces a practical truth: beginners do not need everything at once. They need the right thing at the right time.
+I like [NN/g’s old piece on progressive disclosure](https://www.nngroup.com/articles/progressive-disclosure/) because it reinforces a practical truth that beginners do not need everything at once. They need the right thing at the right time.
 
 A lot of onboarding gets worse when teams try to front-load every possible explanation into session one.
 
@@ -122,7 +122,7 @@ Sometimes the right move is not a universal onboarding flow. It is a tighter pat
 
 If I am pressure-testing onboarding, I want the return experience to accomplish at least one of these:
 
-### 1. Resume something that already matters
+### Resume something that already matters
 
 The cleanest return is continuation.
 
@@ -130,7 +130,7 @@ The user started a real task, made partial progress, and comes back because ther
 
 That is much stronger than returning to a blank screen and a generic “welcome back.”
 
-### 2. Re-anchor the user in their job, not your feature map
+### Re-anchor the user in their job, not your feature map
 
 A good re-entry point reminds the user what they were trying to accomplish.
 
@@ -145,7 +145,7 @@ More like:
 
 That framing matters because it reconnects the product to intent.
 
-### 3. Introduce the next layer of complexity only after value starts to form
+### Introduce the next layer of complexity only after value starts to form
 
 This is where progressive disclosure helps.
 
@@ -153,7 +153,7 @@ Do not explain permissions, templates, automations, collaboration rules, advance
 
 Bring those forward when the user has earned the context for them.
 
-### 4. Reduce the cognitive tax of remembering
+### Reduce the cognitive tax of remembering
 
 A lot of churn is not dramatic disappointment. It is simple forgetting.
 
@@ -163,7 +163,7 @@ Second-session design should lower that tax.
 
 Saved state, clear next steps, useful reminders, and contextual follow-up all help.
 
-## A small artifact I like: the re-entry brief
+## The re-entry brief
 
 When teams are overfocused on first-run conversion, I like writing a lightweight artifact next to the onboarding work:
 
