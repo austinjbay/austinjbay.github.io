@@ -74,7 +74,7 @@ When all of those users hit the same first-run script, the product quietly asks 
 
 That is expensive.
 
-I think [NN/g’s piece on progressive disclosure](https://www.nngroup.com/articles/progressive-disclosure/) is helpful here, not because onboarding teams need another UX slogan, but because it reinforces something practical: the right next step depends on what the user already knows and what they came to do.
+I think [NN/g’s piece on progressive disclosure](https://www.nngroup.com/articles/progressive-disclosure/) is helpful here, not because onboarding teams need another UX slogan, but because it reinforces something practical, which is that the right next step depends on what the user already knows and what they came to do.
 
 If the product asks for too much too early, or asks for the wrong thing first, it is not only adding friction. It is breaking narrative continuity.
 
@@ -111,7 +111,7 @@ Those are much better questions.
 
 When these flows feel off, I usually look for one of four mismatches.
 
-### 1. The product opens with setup work instead of job progress
+### The product opens with setup work instead of job progress
 
 This is the classic one.
 
@@ -121,7 +121,7 @@ Some of that may be necessary.
 
 But if too much admin work appears before the user touches the core value, the product starts spending trust before it has earned it.
 
-### 2. The message is specific, but the onboarding is generic
+### The message is specific, but the onboarding is generic
 
 The acquisition surface may be tightly framed:
 
@@ -135,7 +135,7 @@ Technically correct. Strategically weak.
 
 The user had a reason for showing up. Generic onboarding often strips away that reason right when the product should be reinforcing it.
 
-### 3. The first meaningful action does not match the user’s intent
+### The first meaningful action does not match the user’s intent
 
 This is where growth teams accidentally optimize the wrong step.
 
@@ -145,7 +145,7 @@ But if it is not plausibly connected to the user’s expected job, it is just a 
 
 That is different from progress.
 
-### 4. The product asks for commitment before it has earned conviction
+### The product asks for commitment before it has earned conviction
 
 Invite teammates.
 
