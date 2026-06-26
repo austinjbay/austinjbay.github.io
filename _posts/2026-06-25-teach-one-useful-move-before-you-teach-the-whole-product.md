@@ -207,7 +207,7 @@ Did they come back and do it again, or move naturally into the next adjacent beh
 
 That is a better frame than celebrating superficial completion lifts that come from making the checklist louder.
 
-The [Experiment Guide from Kohavi, Tang, and Xu](https://experimentguide.com/) is valuable partly because it keeps reminding teams to measure what actually reflects meaningful change.
+The [review of online controlled experiment methodology by Larsen, Deng, Kohavi, Stevens, and others](https://arxiv.org/abs/2212.11366) is valuable partly because it keeps reminding teams to measure what actually reflects meaningful change.
 
 I think onboarding experiments need the same humility.
 
