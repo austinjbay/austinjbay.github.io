@@ -1,6 +1,7 @@
 title: Austin Bay
 name: Austin Bay
 color_scheme: auto
+url: "https://austinjbay.com"
 
 author:
   author__name: Austin Bay
@@ -19,3 +20,7 @@ social:
 
 google-analytics: G-C3NW59QVPZ
 permalink: /:title
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
