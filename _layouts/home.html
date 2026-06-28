@@ -12,42 +12,147 @@
     <main class="page-content" aria-label="Content">
       <div class="container">
         {{ content }}
-        <div class="post-list">
-  <div class="row">
-    {% for post in site.posts limit:20 %}
-    <div class="article col col-4 col-d-6 col-t-12">
-      <div class="article__inner">
+        {% assign featured_post = site.posts.first %}
+        {% assign supporting_posts = site.posts | slice: 1, 2 %}
 
-        {% if post.video_embed %}
-        <div class="article__head">
-          <div class="video-icon">
-            <div class="circle pulse"></div>
-            <div class="circle">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-                <polygon points="40,30 65,50 40,70"></polygon>
-              </svg>
+        {% assign experimentation_post = nil %}
+        {% assign systems_post = nil %}
+        {% assign search_post = nil %}
+        {% assign craft_post = nil %}
+        {% for post in site.posts %}
+          {% if experimentation_post == nil and post.url contains 'hypothesis' %}
+            {% assign experimentation_post = post %}
+          {% endif %}
+          {% if systems_post == nil and post.url contains 'ai-growth-workflows' %}
+            {% assign systems_post = post %}
+          {% endif %}
+          {% if search_post == nil and post.url contains 'search' %}
+            {% assign search_post = post %}
+          {% endif %}
+          {% if craft_post == nil and post.url contains 'side-projects' %}
+            {% assign craft_post = post %}
+          {% endif %}
+        {% endfor %}
+
+        {% if featured_post %}
+        <section class="home-section home-section--featured">
+          <div class="section__head">
+            <h2 class="section__title">Latest field note</h2>
+          </div>
+
+          <div class="featured-post">
+            <div class="featured-post__primary">
+              <span class="featured-post__label">Fresh from the garden</span>
+              <h2 class="featured-post__title">
+                <a href="{{ featured_post.url | relative_url }}">{{ featured_post.title }}</a>
+              </h2>
+              <time class="featured-post__date" datetime="{{ featured_post.date | date_to_xmlschema }}">{{ featured_post.date | date: "%B %-d, %Y" }}</time>
+              {% if featured_post.description %}
+              <p class="featured-post__excerpt">{{ featured_post.description }}</p>
+              {% endif %}
+              <a class="button button--primary" href="{{ featured_post.url | relative_url }}">Read the note</a>
+            </div>
+
+            <div class="featured-post__supporting">
+              <p class="featured-post__supporting-title">Recent threads</p>
+              {% for post in supporting_posts %}
+              <article class="supporting-post">
+                <time class="supporting-post__date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+                <h3 class="supporting-post__title">
+                  <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                </h3>
+                {% if post.description %}
+                <p class="supporting-post__excerpt">{{ post.description }}</p>
+                {% endif %}
+              </article>
+              {% endfor %}
             </div>
           </div>
-        </div>
+        </section>
         {% endif %}
 
-        <div class="article__content">
-          <h2 class="article__title">
-            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
+        <section class="home-section" id="explore-threads">
+          <div class="section__head">
+            <h2 class="section__title">Explore by thread</h2>
+          </div>
 
-          <time class="article__date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+          <div class="thread-grid">
+            {% if experimentation_post %}
+            <article class="thread-card">
+              <span class="thread-card__eyebrow">Artifacts and frameworks</span>
+              <h3 class="thread-card__title"><a href="{{ experimentation_post.url | relative_url }}">{{ experimentation_post.title }}</a></h3>
+              <p class="thread-card__copy">A practical entry point into hypothesis writing, structured thinking, and better growth conversations.</p>
+            </article>
+            {% endif %}
 
-          {% if post.description %}
-          <p class="article__excerpt">{{ post.description }}</p>
-          {% endif %}
-        </div>
+            {% if systems_post %}
+            <article class="thread-card">
+              <span class="thread-card__eyebrow">AI and growth systems</span>
+              <h3 class="thread-card__title"><a href="{{ systems_post.url | relative_url }}">{{ systems_post.title }}</a></h3>
+              <p class="thread-card__copy">Notes on using new tools without letting the workflow get ahead of the product judgment.</p>
+            </article>
+            {% endif %}
 
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-</div>
+            {% if search_post %}
+            <article class="thread-card">
+              <span class="thread-card__eyebrow">Search and discovery</span>
+              <h3 class="thread-card__title"><a href="{{ search_post.url | relative_url }}">{{ search_post.title }}</a></h3>
+              <p class="thread-card__copy">Where search behavior, content, and product discovery start to overlap in useful ways.</p>
+            </article>
+            {% endif %}
+
+            {% if craft_post %}
+            <article class="thread-card">
+              <span class="thread-card__eyebrow">Career and craft</span>
+              <h3 class="thread-card__title"><a href="{{ craft_post.url | relative_url }}">{{ craft_post.title }}</a></h3>
+              <p class="thread-card__copy">Notes from the middle on side quests, growth judgment, and the kind of work worth keeping.</p>
+            </article>
+            {% endif %}
+          </div>
+        </section>
+
+        <section class="home-section home-section--archive">
+          <div class="section__head">
+            <h2 class="section__title">Latest posts</h2>
+          </div>
+
+          <div class="post-list">
+            <div class="row">
+              {% for post in site.posts offset:3 limit:18 %}
+              <div class="article col col-4 col-d-6 col-t-12">
+                <div class="article__inner">
+
+                  {% if post.video_embed %}
+                  <div class="article__head">
+                    <div class="video-icon">
+                      <div class="circle pulse"></div>
+                      <div class="circle">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+                          <polygon points="40,30 65,50 40,70"></polygon>
+                        </svg>
+                      </div>
+                    </div>
+                  </div>
+                  {% endif %}
+
+                  <div class="article__content">
+                    <h2 class="article__title">
+                      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    </h2>
+
+                    <time class="article__date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+
+                    {% if post.description %}
+                    <p class="article__excerpt">{{ post.description }}</p>
+                    {% endif %}
+                  </div>
+
+                </div>
+              </div>
+              {% endfor %}
+            </div>
+          </div>
+        </section>
       
     </main>
     {% include footer.html %}

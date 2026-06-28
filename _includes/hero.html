@@ -3,11 +3,30 @@
   <div class="container">
     <div class="row">
       <div class="col col-12">
+        {% assign latest_post = site.posts.first %}
         <div class="hero__inner">
 
           <div class="hero__left">
+            <span class="hero__eyebrow">Growth product field notes</span>
             <h1 class="hero__title">{{ site.hero.hero__title }}</h1>
             <p class="hero__description">{{ site.hero.hero__description }}</p>
+            <p class="hero__supporting">
+              Writing about activation, onboarding, retention, SEO, lifecycle, and the judgment calls that make growth work feel human.
+            </p>
+            <div class="hero__actions">
+              {% if latest_post %}
+              <a class="button button--primary" href="{{ latest_post.url | relative_url }}">Read the latest note</a>
+              {% endif %}
+              <a class="button" href="#explore-threads">Browse the canon</a>
+            </div>
+            <div class="hero__topics" aria-label="Core topics">
+              <span class="hero__topic">Activation</span>
+              <span class="hero__topic">Retention</span>
+              <span class="hero__topic">Experimentation</span>
+              <span class="hero__topic">Lifecycle</span>
+              <span class="hero__topic">SEO</span>
+              <span class="hero__topic">Product judgment</span>
+            </div>
             {% if site.mailchimp == "enable" %}
             <div class="hero__subscribe">
               <form class="subscribe-form validate"
@@ -20,13 +39,29 @@
             </div>
             {% endif %}
           </div>
-{% if site.hero.hero__image %}
+
           <div class="hero__right">
-            <div class="hero__image">
-              <img class="lazy" data-src="{{ site.hero.hero__image }}" alt="{{site.author.name}}'s Picture">
+            <div class="hero__panel">
+              <span class="hero__panel-label">From the desk</span>
+              {% if latest_post %}
+              <div class="hero__panel-block">
+                <p class="hero__panel-title">Latest field note</p>
+                <a class="hero__panel-link" href="{{ latest_post.url | relative_url }}">{{ latest_post.title }}</a>
+                <p class="hero__panel-copy">
+                  {% if latest_post.description %}{{ latest_post.description }}{% else %}A recent note from the growth product desk.{% endif %}
+                </p>
+              </div>
+              {% endif %}
+              <div class="hero__panel-block">
+                <p class="hero__panel-title">What you will find here</p>
+                <ul class="hero__panel-list">
+                  <li>Practical frameworks you can borrow</li>
+                  <li>Reflective notes on growth craft</li>
+                  <li>Connections between product, search, and behavior</li>
+                </ul>
+              </div>
             </div>
           </div>
-{% endif %}
         </div>
       </div>
     </div>
