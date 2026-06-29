@@ -26,7 +26,8 @@
   padding: 32px;
   border: 1px solid var(--border-color);
   border-radius: 12px;
-  background: linear-gradient(180deg, var(--background-alt-color) 0%, var(--background-color) 100%);
+  background: linear-gradient(180deg, var(--surface-gradient-start) 0%, var(--surface-gradient-end) 100%);
+  box-shadow: var(--surface-shadow);
 
   @media only screen and (max-width: $mobile) {
     padding: 24px;
@@ -125,7 +126,7 @@
 
   &:hover {
     transform: translateY(-3px);
-    box-shadow: 0 18px 40px rgba(12, 16, 26, 0.08);
+    box-shadow: var(--surface-shadow);
   }
 }
 
