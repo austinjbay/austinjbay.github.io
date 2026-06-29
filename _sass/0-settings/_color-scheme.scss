@@ -28,6 +28,10 @@
   --border-color: var(--light-blue);
   --border-color-alt: var(--light-blue);
 
+  --surface-gradient-start: var(--background-alt-color);
+  --surface-gradient-end: var(--background-color);
+  --surface-shadow: 0 18px 40px rgba(12, 16, 26, 0.08);
+
   --th-color: var(--light-gray);
   --tr-color: var(--light-gray);
 
@@ -58,6 +62,10 @@
 
   --border-color: #252629;
   --border-color-alt: #080b12;
+
+  --surface-gradient-start: #202129;
+  --surface-gradient-end: #16171d;
+  --surface-shadow: 0 18px 40px rgba(0, 0, 0, 0.28);
 
   --th-color: #18181d;;
   --tr-color: #080b12;
