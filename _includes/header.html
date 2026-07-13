@@ -9,21 +9,20 @@
           {% if site.logo %}
             <img class="logo__image" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
           {% else %}
-            {{ site.title }}
+            {{ site.header.header__title | default: site.title }}
           {% endif %}
           </a>
         </div>
 
-        <nav class="main-nav">
+        <nav class="main-nav" aria-label="Primary navigation">
           <div class="main-nav__box">
             <div class="nav__icon-close">
               <i class="ion ion-md-close"></i>
             </div>
             <div class="nav__title">Menu</div>
             <ul class="nav__list list-reset">
-              <li class="nav__item nav__item-icon">
-               
               {% if site.color_scheme == "auto" %}
+              <li class="nav__item nav__item-icon">
                 <div class="toggle-theme">
                   <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon"></i></div>
                   <div class="toggle-sun" title="Enable light mode"><i class="ion ion-ios-sunny"></i></div>
@@ -43,8 +42,8 @@
         </nav>
 
         <div class="nav-button">
-          <i class="nav__icon icon__menu ion ion-md-menu"></i>
-          <i class="nav__icon icon__search ion ion-md-search"></i>
+          <i class="nav__icon icon__menu ion ion-md-menu" title="Open menu"></i>
+          <i class="nav__icon icon__search ion ion-md-search" title="Search"></i>
         </div>
 
       </div>
