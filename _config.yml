@@ -3,6 +3,9 @@ name: Austin Bay
 color_scheme: auto
 url: "https://austinjbay.com"
 
+header:
+  header__title: Growth product field notes
+
 author:
   author__name: Austin Bay
   author__bio: Growth Product
