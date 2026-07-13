@@ -9,7 +9,7 @@
           {% if site.logo %}
             <img class="logo__image" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
           {% else %}
-            {{ site.header.header__title | default: site.title }}
+            {{ site.title }}
           {% endif %}
           </a>
         </div>
