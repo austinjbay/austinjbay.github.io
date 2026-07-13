@@ -1,6 +1,7 @@
 title: Austin Bay
 name: Austin Bay
 color_scheme: auto
+url: "https://austinjbay.com"
 
 header:
   header__title: Growth product field notes
@@ -11,8 +12,8 @@ author:
   author__avatar: /assets/images/Headshot2.jpg
 
 hero:
-  hero__title: 👋🏻 Hi, I'm Austin.
-  hero__description: I'm a mid-career growth PM living in San Francisco. This is my digital garden. A collection of field notes & artifacts from my desk to yours.
+  hero__title: Austin Bay
+  hero__description: I write about experimentation, AI-native products, growth systems, and how product teams discover what matters.
   
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/austin-bay-2763a918/"}
@@ -21,3 +22,7 @@ social:
 
 google-analytics: G-C3NW59QVPZ
 permalink: /:title
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap

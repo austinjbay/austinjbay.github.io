@@ -102,7 +102,7 @@ The version I like is intentionally lightweight.
 
 Before a test goes live, write down:
 
-### 1. How this experiment could appear to win for the wrong reason
+### How this experiment could appear to win for the wrong reason
 
 This is the first question for a reason.
 
@@ -117,7 +117,7 @@ Examples:
 
 This question usually exposes whether the team is measuring behavior quality or just behavior volume.
 
-### 2. Which metric is the headline, and which metrics get veto power
+### Which metric is the headline, and which metrics get veto power
 
 This is where I borrow a lot from serious experimentation practice.
 
@@ -133,7 +133,7 @@ If you cannot name the veto metrics before launch, you will be tempted to negoti
 
 That is how bad wins become roadmap fuel.
 
-### 3. What user segment is most likely to react differently
+### What user segment is most likely to react differently
 
 A lot of experiments average away the most important story.
 
@@ -143,7 +143,7 @@ If the test only “works” because one segment loved it while another was quie
 
 I would rather name the likely fault line before launch than discover it later in a defensive readout.
 
-### 4. What must be true in the data for us to trust the result
+### What must be true in the data for us to trust the result
 
 This is the boring part, which is usually why it matters.
 
@@ -157,7 +157,7 @@ Ask:
 
 None of this is glamorous. All of it is expensive to learn after the fact.
 
-### 5. What downstream behavior would make a local lift feel suspicious
+### What downstream behavior would make a local lift feel suspicious
 
 This is the retention brain speaking.
 
@@ -167,7 +167,7 @@ If a nudge increases a conversion step but reduces downstream completion, trust,
 
 This is one reason I have become more cautious about celebrating early funnel lifts in isolation. They can be real and still be strategically wrong.
 
-### 6. What would we do if the result is flat
+### What would we do if the result is flat
 
 I like including this because it keeps the team from smuggling hope into the analysis later.
 

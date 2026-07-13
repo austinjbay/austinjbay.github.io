@@ -92,17 +92,10 @@
   }
 }
 
+/* Match .post / .post__content (760px) so title, subtitle, meta align with body. */
 .post__info {
-  margin-left: 44px;
-
-  &.post__info-video {
-    max-width: 760px;
-    margin: 0 auto;
-  }
-
-  @media only screen and (max-width: $desktop) {
-    margin-left: 0;
-  }
+  max-width: 760px;
+  margin: 0 auto;
 }
 
 .page__info {
