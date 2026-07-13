@@ -2,6 +2,9 @@ title: Austin Bay
 name: Austin Bay
 color_scheme: auto
 
+header:
+  header__title: Growth product field notes
+
 author:
   author__name: Austin Bay
   author__bio: Growth Product
@@ -15,7 +18,6 @@ social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/austin-bay-2763a918/"}
 - {icon: "ion-logo-twitter", link: "https://x.com/austinjbay"}
 - {icon: "ion-logo-github", link: "https://github.com/austinjbay"}
-- {icon: "ion-logo-tumblr", link: "https://www.tumblr.com/austinjbay"}
 
 google-analytics: G-C3NW59QVPZ
 permalink: /:title
