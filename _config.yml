@@ -12,8 +12,8 @@ author:
   author__avatar: /assets/images/Headshot2.jpg
 
 hero:
-  hero__title: Austin Bay
-  hero__description: I write about experimentation, AI-native products, growth systems, and how product teams discover what matters.
+  hero__title: Building lovable products
+  hero__description: The best consumer products don't grow by chasing metrics. They're built by generating value and understanding people.
   
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/austin-bay-2763a918/"}
