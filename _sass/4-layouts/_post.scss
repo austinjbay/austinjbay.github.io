@@ -17,14 +17,14 @@
 }
 
 .post-head {
-  padding-top: 64px;
+  padding-top: 96px;
 
   @media only screen and (max-width: $desktop) {
-    padding-top: 56px;
+    padding-top: 76px;
   }
 
   @media only screen and (max-width: $mobile) {
-    padding-top: 40px;
+    padding-top: 56px;
   }
 }
 
