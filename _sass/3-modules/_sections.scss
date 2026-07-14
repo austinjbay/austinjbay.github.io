@@ -5,7 +5,7 @@
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
-  margin-bottom: 40px;
+  margin-bottom: 32px;
 
   &::after {
     content: "";
@@ -14,7 +14,7 @@
     display: block;
     width: 100%;
     height: 1px;
-    background: var(--background-alt-color);
+    background: var(--border-color);
     pointer-events: none;
   }
 
@@ -28,7 +28,9 @@
 .section__title {
   padding-right: 20px;
   margin-bottom: 0;
-  font-size: 28px;
+  font-size: 42px;
+  font-weight: 500;
+  letter-spacing: -0.05em;
 
   @media only screen and (max-width: $mobile) {
     font-size: 24px;
