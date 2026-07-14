@@ -50,8 +50,7 @@
 
 .featured-post__label,
 .thread-card__eyebrow,
-.hero__eyebrow,
-.hero__panel-label {
+.hero__eyebrow {
   display: inline-flex;
   align-items: center;
   gap: 8px;
@@ -120,8 +119,7 @@
 }
 
 .supporting-post__excerpt,
-.thread-card__copy,
-.hero__panel-copy {
+.thread-card__copy {
   margin-bottom: 0;
   font-size: 16px;
   color: var(--text-alt-color);
