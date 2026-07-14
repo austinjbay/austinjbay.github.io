@@ -22,7 +22,7 @@
         <div class="hero__inner">
 
           <div class="hero__left">
-            <span class="hero__eyebrow">Growth product field notes</span>
+            <span class="hero__eyebrow">Product field notes</span>
             <h1 class="hero__title">{{ site.hero.hero__title }}</h1>
             {{ site.hero.hero__description | markdownify | replace: '<p>', '<p class="hero__description">' }}
             <div class="hero__actions">
@@ -30,14 +30,6 @@
               <a class="button button--primary" href="{{ latest_post.url | relative_url }}">Read the latest</a>
               {% endif %}
               <a class="button" href="#explore-threads">Browse notes</a>
-            </div>
-            <div class="hero__topics" aria-label="Core topics">
-              <span class="hero__topic">Activation</span>
-              <span class="hero__topic">Retention</span>
-              <span class="hero__topic">Experimentation</span>
-              <span class="hero__topic">Lifecycle</span>
-              <span class="hero__topic">SEO</span>
-              <span class="hero__topic">Product judgment</span>
             </div>
             {% if site.mailchimp == "enable" %}
             <div class="hero__subscribe">
