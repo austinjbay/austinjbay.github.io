@@ -12,8 +12,9 @@ author:
   author__avatar: /assets/images/Headshot2.jpg
 
 hero:
-  hero__title: Building products people return to.
-  hero__description: "*Growth isn't something you add to a product. It's what happens when people genuinely want to return.*"
+  hero__title: Building products that become part of everyday life
+  hero__description: "The best consumer products don't compete for attention.
+They earn a place in people's routines."
   
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/austin-bay-2763a918/"}
