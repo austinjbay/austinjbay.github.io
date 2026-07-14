@@ -37,12 +37,12 @@
         {% if featured_post %}
         <section class="home-section home-section--featured">
           <div class="section__head">
-            <h2 class="section__title">Latest field note</h2>
+            <h2 class="section__title">Latest writing</h2>
           </div>
 
           <div class="featured-post">
             <div class="featured-post__primary">
-              <span class="featured-post__label">Fresh from the garden</span>
+              <span class="featured-post__label">New essay</span>
               <h2 class="featured-post__title">
                 <a href="{{ featured_post.url | relative_url }}">{{ featured_post.title }}</a>
               </h2>
@@ -50,11 +50,11 @@
               {% if featured_post.description %}
               <p class="featured-post__excerpt">{{ featured_post.description }}</p>
               {% endif %}
-              <a class="button button--primary" href="{{ featured_post.url | relative_url }}">Read more</a>
+              <a class="button button--primary" href="{{ featured_post.url | relative_url }}">Read essay</a>
             </div>
 
             <div class="featured-post__supporting">
-              <p class="featured-post__supporting-title">Recent threads</p>
+              <p class="featured-post__supporting-title">Recent notes</p>
               {% for post in supporting_posts %}
               <article class="supporting-post">
                 <time class="supporting-post__date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
@@ -73,7 +73,7 @@
 
         <section class="home-section" id="explore-threads">
           <div class="section__head">
-            <h2 class="section__title">Explore by thread</h2>
+            <h2 class="section__title">Explore the work</h2>
           </div>
 
           <div class="thread-grid">
@@ -113,7 +113,7 @@
 
         <section class="home-section home-section--archive">
           <div class="section__head">
-            <h2 class="section__title">Latest posts</h2>
+            <h2 class="section__title">More writing</h2>
           </div>
 
           <div class="post-list">
@@ -157,6 +157,7 @@
     </main>
     {% include footer.html %}
   <script src="{{ site.baseurl }}/js/scripts.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.12.2/lottie.min.js"></script>
   <script src="{{ site.baseurl }}/js/common.js"></script>
   </body>
   

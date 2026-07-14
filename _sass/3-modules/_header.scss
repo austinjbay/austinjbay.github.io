@@ -1,7 +1,7 @@
 /* Header */
 .header {
   border-bottom: 1px solid var(--border-color);
-  background: var(--background-color);
+  background: var(--background-alt-color);
 
   .header__inner {
     position: relative;
@@ -33,7 +33,7 @@
   font-size: 22px;
   letter-spacing: 0;
   line-height: 1.1;
-  font-weight: 700;
+  font-weight: 600;
   transition: color .25s ease;
 
   &:hover {
