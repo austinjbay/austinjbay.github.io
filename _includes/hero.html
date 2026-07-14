@@ -29,28 +29,6 @@
             {% endif %}
           </div>
 
-          <div class="hero__right">
-            <div class="hero__panel">
-              <span class="hero__panel-label">Featured note</span>
-              {% if desk_post %}
-              <div class="hero__panel-block">
-                <p class="hero__panel-title">Current artifact</p>
-                <a class="hero__panel-link" href="{{ desk_post.url | relative_url }}">{{ desk_post.title }}</a>
-                <p class="hero__panel-copy">
-                  {% if desk_post.description %}{{ desk_post.description }}{% else %}A practical note from the growth product desk.{% endif %}
-                </p>
-              </div>
-              {% endif %}
-              <div class="hero__panel-block">
-                <p class="hero__panel-title">What you will find here</p>
-                <ul class="hero__panel-list">
-                  <li>Practical frameworks you can borrow</li>
-                  <li>Reflective notes on growth craft</li>
-                  <li>Connections between product, search, and behavior</li>
-                </ul>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </div>
