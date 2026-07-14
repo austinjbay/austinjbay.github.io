@@ -1,0 +1,50 @@
+---
+layout: default
+title: Tags
+permalink: /tags/
+---
+
+<div class="tag__head">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <h1 class="tag__title">Tags</h1>
+        <ul class="tag__list list-reset">
+          {% assign sorted_tags = site.tags | sort %}
+          {% for tag in sorted_tags %}
+            {% assign tag_name = tag | first %}
+            {% assign posts = tag | last %}
+            <li class="tag__item">
+              <a class="tag__link" href="#{{ tag_name | uri_escape }}">{{ tag_name }} <span>{{ posts.size }}</span></a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="tags__inner animate">
+  <div class="container">
+    {% assign sorted_tags = site.tags | sort %}
+    {% for tag in sorted_tags %}
+      {% assign tag_name = tag | first %}
+      {% assign posts = tag | last %}
+      <section class="tag__section" id="{{ tag_name | uri_escape }}">
+        <div class="tag__info">
+          <div class="tag__info-box">
+            <div class="tag__counter"><span>{{ posts.size }}</span><small>{% if posts.size == 1 %}Post{% else %}Posts{% endif %}</small></div>
+            <h2 class="tag__name">{{ tag_name }}</h2>
+          </div>
+          <a class="top__link" href="#top">Back to top</a>
+        </div>
+
+        <div class="row">
+          {% for post in posts %}
+            {% include article.html %}
+          {% endfor %}
+        </div>
+      </section>
+    {% endfor %}
+  </div>
+</div>
