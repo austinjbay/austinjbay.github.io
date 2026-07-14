@@ -4,7 +4,7 @@ color_scheme: auto
 url: "https://austinjbay.com"
 
 header:
-  header__title: Growth product field notes
+  header__title: Austin Bay
 
 author:
   author__name: Austin Bay
@@ -12,8 +12,8 @@ author:
   author__avatar: /assets/images/Headshot2.jpg
 
 hero:
-  hero__title: Austin Bay
-  hero__description: I write about experimentation, AI-native products, growth systems, and how product teams discover what matters.
+  hero__title: Building lovable products
+  hero__description: Growth isn't just about features or funnels. It's the outcome of building products people choose to return to.
   
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/austin-bay-2763a918/"}
