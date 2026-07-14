@@ -22,7 +22,7 @@
         <div class="hero__inner">
 
           <div class="hero__left">
-            <span class="hero__eyebrow">Product field notes</span>
+            <span class="hero__eyebrow">Product strategy and growth</span>
             <h1 class="hero__title">{{ site.hero.hero__title }}</h1>
             {{ site.hero.hero__description | markdownify | replace: '<p>', '<p class="hero__description">' }}
             <div class="hero__actions">
@@ -46,10 +46,10 @@
 
           <div class="hero__right">
             <div class="hero__panel">
-              <span class="hero__panel-label">From the desk</span>
+              <span class="hero__panel-label">Featured note</span>
               {% if desk_post %}
               <div class="hero__panel-block">
-                <p class="hero__panel-title">Artifact to borrow</p>
+                <p class="hero__panel-title">Current artifact</p>
                 <a class="hero__panel-link" href="{{ desk_post.url | relative_url }}">{{ desk_post.title }}</a>
                 <p class="hero__panel-copy">
                   {% if desk_post.description %}{{ desk_post.description }}{% else %}A practical note from the growth product desk.{% endif %}
