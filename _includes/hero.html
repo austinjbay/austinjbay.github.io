@@ -3,19 +3,12 @@
   <div class="container">
     <div class="row">
       <div class="col col-12">
-        {% assign latest_post = site.posts.first %}
         <div class="hero__inner">
 
           <div class="hero__left">
             <span class="hero__eyebrow">Product strategy and growth</span>
             <h1 class="hero__title">{{ site.hero.hero__title }}</h1>
             {{ site.hero.hero__description | markdownify | replace: '<p>', '<p class="hero__description">' }}
-            <div class="hero__actions">
-              {% if latest_post %}
-              <a class="button button--primary" href="{{ latest_post.url | relative_url }}">Read the latest</a>
-              {% endif %}
-              <a class="button" href="#explore-threads">Browse notes</a>
-            </div>
             {% if site.mailchimp == "enable" %}
             <div class="hero__subscribe">
               <form class="subscribe-form validate"
@@ -29,28 +22,15 @@
             {% endif %}
           </div>
 
-          <div class="hero__right">
-            <div class="hero__panel">
-              <span class="hero__panel-label">Featured note</span>
-              {% if desk_post %}
-              <div class="hero__panel-block">
-                <p class="hero__panel-title">Current artifact</p>
-                <a class="hero__panel-link" href="{{ desk_post.url | relative_url }}">{{ desk_post.title }}</a>
-                <p class="hero__panel-copy">
-                  {% if desk_post.description %}{{ desk_post.description }}{% else %}A practical note from the growth product desk.{% endif %}
-                </p>
-              </div>
-              {% endif %}
-              <div class="hero__panel-block">
-                <p class="hero__panel-title">What you will find here</p>
-                <ul class="hero__panel-list">
-                  <li>Practical frameworks you can borrow</li>
-                  <li>Reflective notes on growth craft</li>
-                  <li>Connections between product, search, and behavior</li>
-                </ul>
+          <div class="hero__right" aria-label="Continuous learning system animation">
+            <div class="hero-system" data-hero-lottie data-light-src="{{ '/assets/animations/hero-learning-system-light.json' | relative_url }}" data-dark-src="{{ '/assets/animations/hero-learning-system-dark.json' | relative_url }}">
+              <div class="hero-system__fallback">
+                <img class="hero-system__fallback-image hero-system__fallback-image--light" src="{{ '/assets/animations/hero-learning-system-light.svg' | relative_url }}" alt="A systems diagram showing reading becoming understanding, opportunity, product and strategy, experiments, learning, and better ideas.">
+                <img class="hero-system__fallback-image hero-system__fallback-image--dark" src="{{ '/assets/animations/hero-learning-system-dark.svg' | relative_url }}" alt="" aria-hidden="true">
               </div>
             </div>
           </div>
+
         </div>
       </div>
     </div>
