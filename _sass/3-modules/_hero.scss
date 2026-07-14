@@ -1,12 +1,12 @@
 /* Hero */
 .hero {
-  padding: 96px 0 88px;
+  padding: 80px 0 76px;
   margin-bottom: 96px;
   background: var(--background-alt-color);
   border-bottom: 1px solid var(--border-color);
 
   @media only screen and (max-width: $mobile) {
-    padding: 64px 0;
+    padding: 56px 0;
     margin-bottom: 64px;
   }
 }
