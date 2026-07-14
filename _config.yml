@@ -12,8 +12,8 @@ author:
   author__avatar: /assets/images/Headshot2.jpg
 
 hero:
-  hero__title: Building lovable products
-  hero__description: Growth isn't just about features or funnels. It's the outcome of building products people choose to keep coming back to.
+  hero__title: Building products people return to.
+  hero__description: "*Growth isn't something you add to a product. It's what happens when people genuinely want to return.*"
   
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/austin-bay-2763a918/"}
