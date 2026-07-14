@@ -24,7 +24,7 @@
           <div class="hero__left">
             <span class="hero__eyebrow">Growth product field notes</span>
             <h1 class="hero__title">{{ site.hero.hero__title }}</h1>
-            <p class="hero__description">{{ site.hero.hero__description }}</p>
+            {{ site.hero.hero__description | markdownify | replace: '<p>', '<p class="hero__description">' }}
             <div class="hero__actions">
               {% if latest_post %}
               <a class="button button--primary" href="{{ latest_post.url | relative_url }}">Read the latest</a>
