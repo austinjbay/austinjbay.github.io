@@ -124,7 +124,6 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 
 
-
   /* =================================
   // Smooth scroll to the tags page
   ================================= */
