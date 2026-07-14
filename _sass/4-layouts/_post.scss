@@ -16,6 +16,18 @@
   }
 }
 
+.post-head {
+  padding-top: 64px;
+
+  @media only screen and (max-width: $desktop) {
+    padding-top: 56px;
+  }
+
+  @media only screen and (max-width: $mobile) {
+    padding-top: 40px;
+  }
+}
+
 .post-image,
 .page-image {
   position: relative;

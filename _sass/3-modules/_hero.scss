@@ -88,7 +88,65 @@
   }
 }
 
-.hero__right { width: 100%; }
+  @media only screen and (max-width: $desktop) {
+    justify-content: center;
+  }
+}
+
+.hero-system {
+  position: relative;
+  width: min(100%, 540px);
+  aspect-ratio: 720 / 620;
+}
+
+.hero-system svg,
+.hero-system canvas,
+.hero-system__fallback,
+.hero-system__fallback-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.hero-system__fallback-image {
+  object-fit: contain;
+}
+
+.hero-system__fallback-image--dark {
+  display: none;
+}
+
+:root[dark] .hero-system__fallback-image--light,
+:root.dark-mode .hero-system__fallback-image--light {
+  display: none;
+}
+
+:root[dark] .hero-system__fallback-image--dark,
+:root.dark-mode .hero-system__fallback-image--dark {
+  display: block;
+}
+
+.hero-system.is-loaded .hero-system__fallback {
+  display: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-system .hero-system__fallback {
+    display: block;
+  }
+}
+
+@media only screen and (max-width: $desktop) {
+  .hero-system {
+    width: min(100%, 500px);
+  }
+}
+
+@media only screen and (max-width: $mobile) {
+  .hero-system {
+    width: min(100%, 360px);
+  }
+}
 
 .hero__panel {
   padding: 0;
