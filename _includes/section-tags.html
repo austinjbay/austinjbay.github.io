@@ -15,7 +15,7 @@
           {% for item in (0..site.tags.size) limit:5 %}{% unless forloop.last %}
           {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
           <div class="col col-3 col-d-6 col-m-12">
-            <a href="{{ site.baseurl }}/tags#{{ this_word | cgi_escape }}" class="tag-image">
+            <a href="{{ site.baseurl }}/tags/#{{ this_word | uri_escape }}" class="tag-image">
               <span class="tag-name">{{ this_word }}</span>
             </a>
           </div>
