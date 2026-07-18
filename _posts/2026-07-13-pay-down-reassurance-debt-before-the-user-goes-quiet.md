@@ -1,7 +1,7 @@
 ---
 title: "Pay down reassurance debt before the user goes quiet"
 subtitle: "Why growth teams should design the silence after a risky action, not only the click that triggered it."
-description: "A growth PM field note on spotting reassurance debt in onboarding, imports, invites, AI flows, and lifecycle before uncertainty turns into drop-off."
+description: "Reassurance debt builds when the product stays silent at tense moments, then shows up later as avoidable drop-off."
 date: 2026-07-13
 image: /assets/images/desk.jpg
 layout: post

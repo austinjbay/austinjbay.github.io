@@ -1,7 +1,7 @@
 ---
 title: "In defense of side quests"
 subtitle: Where detours lead to breakthroughs
-description: "Time carved out for pet projects is hard-won at work these days, but there's so much value in spending time outside official company projects."
+description: "Why side quests at work matter when small experiments sharpen craft, widen the map, and lead to surprising breakthroughs."
 date: 2025-04-24
 layout: post
 tags: [Product Discovery]

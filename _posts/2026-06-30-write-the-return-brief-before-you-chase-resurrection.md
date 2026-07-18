@@ -1,7 +1,7 @@
 ---
 title: "Write the return brief before you chase resurrection"
 subtitle: "Why retention work gets better when the product helps people recover context after a gap instead of only asking them to come back."
-description: "A growth PM field note on designing for the cold return with a simple return brief that restores context, confidence, and momentum."
+description: "A return brief can make the cold visit feel warm again by restoring context, confidence, and forward motion."
 date: 2026-06-30
 image: /assets/images/notebook.jpg
 layout: post

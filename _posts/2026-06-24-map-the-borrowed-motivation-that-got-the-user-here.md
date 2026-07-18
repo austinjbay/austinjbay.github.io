@@ -1,7 +1,7 @@
 ---
 title: "Map the borrowed motivation that got the user here"
 subtitle: "Why growth teams should design for the moment outside pressure fades and real product ownership has to begin."
-description: "A growth PM field note on using a motivation transfer map to turn search urgency, boss pressure, and teammate nudges into durable user commitment."
+description: "Map the borrowed motivation that brought the user in so outside urgency can turn into durable commitment inside the product."
 date: 2026-06-24
 image: /assets/images/notebook.jpg
 layout: post

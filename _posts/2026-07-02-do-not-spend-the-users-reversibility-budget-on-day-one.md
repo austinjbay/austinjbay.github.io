@@ -1,7 +1,7 @@
 ---
 title: "Do not spend the user’s reversibility budget on day one"
 subtitle: "Why early growth work gets better when the product keeps more doors open for the person on the other side"
-description: "A growth PM field note on using reversibility as a practical filter for onboarding, activation, lifecycle, and product judgment."
+description: "Reversibility is a useful filter for onboarding and activation decisions that ask for trust before users have earned certainty."
 date: 2026-07-02
 image: /assets/images/notebook.jpg
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: "Keep a translation table between user words and product words"
 subtitle: "Why growth teams lose momentum when search, onboarding, and lifecycle start speaking a dialect the user never asked for."
-description: "A growth PM field note on using a translation table to keep user language intact from the query to the product."
+description: "A translation table keeps user language intact from the first query through setup, search, and everyday product use."
 date: 2026-07-07
 image: /assets/images/notebook.jpg
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: "Leave the user a trail back into the product"
 subtitle: "Why growth teams should design the return path while the first session is still fresh."
-description: "A growth PM field note on reducing memory tax with a simple context carryover note for returning users."
+description: "Reduce memory tax for returning users with a small context carryover note that helps them pick up the thread."
 date: 2026-06-27
 image: /assets/images/notebook.jpg
 layout: post
