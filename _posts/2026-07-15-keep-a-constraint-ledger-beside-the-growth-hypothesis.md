@@ -1,7 +1,7 @@
 ---
 title: "Keep a constraint ledger beside the growth hypothesis"
 subtitle: "Why smart growth ideas still stall when the team writes the bet clearly but leaves the real-world constraints implicit."
-description: "A growth PM field note on tracking the environmental, social, and operational constraints that shape whether a growth idea can actually work."
+description: "A constraint ledger keeps growth hypotheses honest by naming the conditions, tradeoffs, and limits that shape whether they work."
 date: 2026-07-15
 image: /assets/images/notebook.jpg
 layout: post
