@@ -1,7 +1,7 @@
 ---
 title: "Curate the first comparison set before users make one up"
 subtitle: "Why growth teams should shape early evaluation with a small comparison starter instead of leaving users alone with a messy mental bracket."
-description: "A growth PM field note on helping users compare the right things at the right moment so acquisition, onboarding, and lifecycle work compound instead of colliding."
+description: "Shape the first comparison set so users evaluate the product on the dimensions that actually predict fit and follow-through."
 date: 2026-06-29
 image: /assets/images/notebook.jpg
 layout: post

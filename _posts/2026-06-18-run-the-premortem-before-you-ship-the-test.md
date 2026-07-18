@@ -1,7 +1,7 @@
 ---
 title: "Run the premortem before you ship the test"
 subtitle: "A small ritual that catches weak instrumentation, bad incentives, and shaky growth logic before they reach production."
-description: "A growth PM field note on using experiment premortems to improve test quality before launch."
+description: "A practical case for running the experiment premortem before launch, while the team can still fix the blind spots."
 date: 2026-06-18
 image: /assets/images/desk.jpg
 layout: post

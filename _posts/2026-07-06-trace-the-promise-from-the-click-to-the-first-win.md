@@ -1,7 +1,7 @@
 ---
 title: "Trace the promise from the click to the first win"
 subtitle: "Why growth teams should keep one honest story across acquisition, onboarding, and early product value."
-description: "A growth PM field note on using a promise trace to keep marketing claims, product setup, and early value aligned."
+description: "Trace the promise from the click to the first win so marketing claims and product reality stay in sync."
 date: 2026-07-06
 image: /assets/images/notebook.jpg
 layout: post

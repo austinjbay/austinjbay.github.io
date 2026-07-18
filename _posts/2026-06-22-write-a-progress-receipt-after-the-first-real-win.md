@@ -1,7 +1,7 @@
 ---
 title: "Write a progress receipt after the first real win"
 subtitle: "Why users come back more often when the product records what changed, why it mattered, and what to do next."
-description: "A growth PM field note on using a progress receipt to preserve momentum across sessions, channels, and teammates."
+description: "A progress receipt helps users carry proof of momentum from one session, channel, or teammate to the next."
 date: 2026-06-22
 image: /assets/images/notebook.jpg
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: "Design the next question, not just the next click"
 subtitle: "Why growth product work gets stronger when it helps users step into the next useful question instead of forcing a full leap."
-description: "A growth PM field note on using a next-question map to connect search intent, onboarding, product discovery, and retention."
+description: "A next-question map helps teams connect search intent, onboarding, product discovery, and retention work."
 date: 2026-06-26
 image: /assets/images/notebook.jpg
 layout: post
