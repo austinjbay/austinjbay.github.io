@@ -1,7 +1,7 @@
 ---
 title: "Lower the context reconstruction tax on the second visit"
 subtitle: "Why a lot of growth work stalls when returning users have to rebuild the whole story before they can make progress again."
-description: "A growth PM field note on designing the return path so users can resume momentum instead of re-earning it from scratch."
+description: "Design the return path so users can resume momentum on the second visit instead of reconstructing everything from scratch."
 date: 2026-07-13
 image: /assets/images/desk.jpg
 layout: post

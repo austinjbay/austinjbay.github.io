@@ -1,7 +1,7 @@
 ---
 title: "Map the promise before you optimize onboarding"
 subtitle: "Why growth teams should trace acquisition intent into the first useful product moment."
-description: "A growth PM field note on using a promise-to-product map to keep acquisition messaging, onboarding, and early value aligned."
+description: "Use a promise-to-product map to keep acquisition language, onboarding steps, and early value pulling in the same direction."
 date: 2026-06-19
 image: /assets/images/notebook.jpg
 layout: post

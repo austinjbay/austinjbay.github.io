@@ -1,7 +1,7 @@
 ---
 title: "Write the handoff note between the evaluator and the everyday user"
 subtitle: "Why growth teams lose healthy adoption when the person who says yes is not the person who has to build the habit."
-description: "A growth PM field note on designing for the internal handoff between the evaluator who opens the door and the teammate who has to live with the product after the trial glow fades."
+description: "Write for the handoff between the evaluator and the everyday user, where many trial wins quietly fall apart."
 date: 2026-07-09
 image: /assets/images/notebook.jpg
 layout: post

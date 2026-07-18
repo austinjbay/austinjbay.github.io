@@ -1,7 +1,7 @@
 ---
 title: "Your onboarding does not end at logout"
 subtitle: "Why the second session deserves as much design attention as the first."
-description: "A growth PM field note on designing the return path, not just the welcome flow."
+description: "Why the real onboarding job is making the second visit feel easier than the first."
 date: 2026-06-17
 image: /assets/images/desk.jpg
 layout: post

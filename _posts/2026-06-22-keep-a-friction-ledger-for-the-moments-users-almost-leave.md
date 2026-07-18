@@ -1,7 +1,7 @@
 ---
 title: "Keep a friction ledger for the moments users almost leave"
 subtitle: "Why growth product work gets better when you track near exits instead of waiting for churn to explain them."
-description: "A growth PM field note on using a simple friction ledger to spot broken handoffs across acquisition, onboarding, support, and lifecycle."
+description: "A simple friction ledger can expose the handoffs where users nearly leave across acquisition, onboarding, support, and lifecycle."
 date: 2026-06-22
 image: /assets/images/desk.jpg
 layout: post

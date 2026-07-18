@@ -1,7 +1,7 @@
 ---
 title: "Teach one useful move before you teach the whole product"
 subtitle: "Why better onboarding often looks less like a tour and more like a good first lesson."
-description: "A growth PM field note on designing onboarding around one repeatable user move that builds competence, momentum, and return behavior."
+description: "Design onboarding around one useful repeatable move that builds competence, confidence, and a reason to come back."
 date: 2026-06-25
 image: /assets/images/notebook.jpg
 layout: post

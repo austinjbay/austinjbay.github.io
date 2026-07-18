@@ -1,7 +1,7 @@
 ---
 title: "If it doesn’t predict retention, it isn’t activation"
 subtitle: "A practical way to separate setup milestones from the moment a product starts to matter."
-description: "A growth PM field note on choosing activation metrics that predict retained behavior instead of rewarding busywork."
+description: "How to choose activation metrics that forecast repeat behavior instead of rewarding setup theater."
 date: 2026-06-16
 image: /assets/images/notebook.jpg
 layout: post

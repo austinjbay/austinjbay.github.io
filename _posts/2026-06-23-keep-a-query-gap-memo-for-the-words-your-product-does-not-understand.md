@@ -1,7 +1,7 @@
 ---
 title: "Keep a query gap memo for the words your product does not understand"
 subtitle: "Why growth teams should study failed searches, support phrasing, and SEO language as one shared map of user intent."
-description: "A growth PM field note on using a query gap memo to connect acquisition, onboarding, internal search, and lifecycle around the language users actually use."
+description: "Keep a query gap memo so marketing, onboarding, search, and lifecycle can learn from the words users reach for first."
 date: 2026-06-23
 image: /assets/images/notebook.jpg
 layout: post

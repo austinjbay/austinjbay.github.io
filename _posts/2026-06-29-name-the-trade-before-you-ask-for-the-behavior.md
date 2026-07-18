@@ -1,7 +1,7 @@
 ---
 title: "Name the trade before you ask for the behavior"
 subtitle: "A practical way to see what your onboarding, prompts, and lifecycle asks are really costing the user."
-description: "A growth PM field note on treating product asks as trades so teams can lower hidden cost, raise trust, and improve behavior quality."
+description: "Treat every product ask like a trade so teams can lower hidden cost, build trust, and improve behavior quality."
 date: 2026-06-29
 image: /assets/images/notebook.jpg
 layout: post

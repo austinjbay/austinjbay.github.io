@@ -1,7 +1,7 @@
 ---
 title: "Help the user rule you out before they sign up"
 subtitle: "Why honest self selection can improve trust, activation, and retention better than one more generic conversion lift."
-description: "A growth PM field note on using a simple fit note to help the right users lean in and the wrong users opt out early."
+description: "A simple fit note helps the right users lean in sooner and gives the wrong users permission to opt out early."
 date: 2026-07-01
 image: /assets/images/desk.jpg
 layout: post
