@@ -1,7 +1,7 @@
 ---
 title: "Write the detour map before the user needs it"
 subtitle: "Why retained usage depends on how your product handles the first broken expectation, not only the first successful flow."
-description: "A growth PM field note on using a detour map to make onboarding, activation, and retention sturdier when the happy path stops being available."
+description: "A detour map helps teams design for the first broken expectation so users can recover momentum instead of quietly drifting."
 date: 2026-07-13
 image: /assets/images/notebook.jpg
 layout: post
