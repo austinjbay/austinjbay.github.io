@@ -1,7 +1,7 @@
 ---
 title: "Design the not-now path before you optimize the yes"
 subtitle: "Why committed users still disappear when a product treats deferred intent like lost intent."
-description: "A growth PM field note on designing for delayed action so serious interest survives meetings, interruptions, and ordinary life."
+description: "Design for delayed action so serious interest survives meetings, interruptions, and the ordinary timing of real life."
 date: 2026-07-14
 image: /assets/images/notebook.jpg
 layout: post
