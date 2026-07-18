@@ -1,7 +1,7 @@
 ---
 title: "Design the downgrade path before you sell the upgrade"
 subtitle: "Why healthier conversion comes from making commitment reversible enough to trust."
-description: "A growth PM field note on using the downgrade path to build better monetization judgment, cleaner expansion signals, and more durable trust."
+description: "The downgrade path is where monetization judgment gets tested, and where durable trust is either protected or spent."
 date: 2026-07-16
 image: /assets/images/desk.jpg
 layout: post
